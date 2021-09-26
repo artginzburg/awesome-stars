@@ -1,0 +1,21 @@
+name: Update awesome-stars
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 0 0 * * *
+
+jobs:
+  awesome-stars:
+    name: Update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: pip install starred
+    - name: Update repo
+      run: starred --username ${{ github.repository_owner }} --repository awesome-stars --sort --token ${{ secrets.GITHUB_TOKEN }} --message 'stars update by github actions cron'
