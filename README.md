@@ -15,6 +15,7 @@
   - [JavaScript](#javascript)
   - [Objective-C](#objective-c)
   - [Others](#others)
+  - [PHP](#php)
   - [Python](#python)
   - [QML](#qml)
   - [Rich Text Format](#rich-text-format)
@@ -59,6 +60,7 @@
 
 ## JavaScript 
 
+- [virejdasani/Geniemoji](https://github.com/virejdasani/Geniemoji) - Geniemoji - The Emoji Genie 🧞‍♂️
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
@@ -111,6 +113,10 @@
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 
+## PHP 
+
+- [lorenzos/Minixed](https://github.com/lorenzos/Minixed) - A minimal but nice-looking PHP directory indexer.
+
 ## Python 
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -158,6 +164,7 @@
 
 ## Swift 
 
+- [jariz/Akku](https://github.com/jariz/Akku) - Experimental bluetooth headset battery monitoring application for MacOS
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [keith/ModMove](https://github.com/keith/ModMove) - Move/Resize windows using modifiers and the mouse
