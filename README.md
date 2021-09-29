@@ -195,6 +195,8 @@
 
 ## TypeScript 
 
+- [lucafalasco/scroll-snap](https://github.com/lucafalasco/scroll-snap) - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour
+- [trekhleb/self-parking-car-evolution](https://github.com/trekhleb/self-parking-car-evolution) - 🧬 Training the car to do self-parking using a genetic algorithm
 - [HanaDigital/grev](https://github.com/HanaDigital/grev) - Github Release Viewer. View your github repository release statistics.
 - [anuraghazra/vscode-strip-ts-copy](https://github.com/anuraghazra/vscode-strip-ts-copy) - Strip types from TypeScript code while copying it.
 - [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
