@@ -120,6 +120,7 @@
 
 ## Python 
 
+- [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
