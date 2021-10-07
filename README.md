@@ -197,6 +197,7 @@
 
 ## TypeScript 
 
+- [torgeadelin/react-native-animated-nav-tab-bar](https://github.com/torgeadelin/react-native-animated-nav-tab-bar) - A simple and customisable React Native component that implements an animated bottom tab bar for React Navigation.
 - [lucafalasco/scroll-snap](https://github.com/lucafalasco/scroll-snap) - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour
 - [trekhleb/self-parking-car-evolution](https://github.com/trekhleb/self-parking-car-evolution) - 🧬 Training the car to do self-parking using a genetic algorithm
 - [HanaDigital/grev](https://github.com/HanaDigital/grev) - Github Release Viewer. View your github repository release statistics.
