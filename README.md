@@ -36,6 +36,7 @@
 
 ## C 
 
+- [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [takiz/symb](https://github.com/takiz/symb) - Замена выделенных ru/en символов как в Punto Switcher.
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [pirate/mac-keyboard-brightness](https://github.com/pirate/mac-keyboard-brightness) - 🔆 Programmatically get & set the keyboard & display backlight brightness on Macs. Flash your keyboard to the music! (only works on &lt;2015 Macs)
@@ -47,7 +48,6 @@
 ## CSS 
 
 - [vasu-gondaliya/rubiks-cube](https://github.com/vasu-gondaliya/rubiks-cube) - A Rubik's Cube Visualizer with face turns, cube rotations, scramble generator, flat view of cube and cube animation
-- [wannaseedeadbody/wannaseedeadbody.github.io](https://github.com/wannaseedeadbody/wannaseedeadbody.github.io) - 
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 
 ## Elm 
@@ -73,6 +73,7 @@
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [webcatalog/translatium-desktop](https://github.com/webcatalog/translatium-desktop) - Official Translatium app for desktop.
 - [virejdasani/Responsivize](https://github.com/virejdasani/Responsivize) - A must-have tool to develop responsive websites 📲
+- [wannaseedeadbody/wannaseedeadbody.github.io](https://github.com/wannaseedeadbody/wannaseedeadbody.github.io) - 
 - [odditive/heroku-node-telegram-bot](https://github.com/odditive/heroku-node-telegram-bot) - Starter pack for running telegram bot on the Heroku using Node.js
 - [telegraf/telegraf-command-parts](https://github.com/telegraf/telegraf-command-parts) - Command parameters parser middleware for Telegraf
 - [nchaulet/node-geocoder](https://github.com/nchaulet/node-geocoder) - nodejs geocoding library
