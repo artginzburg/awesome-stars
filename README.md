@@ -24,6 +24,7 @@
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
 
 ## Assembly 
@@ -197,6 +198,10 @@
 - [Sunnyyoung/Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock/switcher for macOS.
 - [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac
 - [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac) - Cocoa Interface for youtube-dl
+
+## TeX 
+
+- [kdelalic/auto-resume](https://github.com/kdelalic/auto-resume) - Automatically generate and release LaTeX-based resumes with each git tag.
 
 ## TypeScript 
 
