@@ -61,6 +61,7 @@
 
 ## JavaScript 
 
+- [dvhb/metro](https://github.com/dvhb/metro) - Metro map
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [virejdasani/Geniemoji](https://github.com/virejdasani/Geniemoji) - Geniemoji - The Emoji Genie 🧞‍♂️
