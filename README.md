@@ -110,7 +110,6 @@
 
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [demenskiy/mokka](https://github.com/demenskiy/mokka) - Minimal dark theme for Visual Studio Code.
-- [Mathue042/Mathue042](https://github.com/Mathue042/Mathue042) - 
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
 - [naumch1k/naumch1k](https://github.com/naumch1k/naumch1k) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
