@@ -63,6 +63,9 @@
 
 ## JavaScript 
 
+- [EmilioAsteben/React-chat](https://github.com/EmilioAsteben/React-chat) - React-chat powered by Firebase (Realtime Database)
+- [EmilioAsteben/React-swiper-demo](https://github.com/EmilioAsteben/React-swiper-demo) - Lightweight responsive Swiper for React.js
+- [EmilioAsteben/Typing-test](https://github.com/EmilioAsteben/Typing-test) - Typing speed test on React
 - [dvhb/metro](https://github.com/dvhb/metro) - Metro map
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
