@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [rjadyshkom/spa-seo](https://github.com/rjadyshkom/spa-seo) - 
 - [EmilioAsteben/React-chat](https://github.com/EmilioAsteben/React-chat) - React-chat powered by Firebase (Realtime Database)
 - [EmilioAsteben/React-swiper-demo](https://github.com/EmilioAsteben/React-swiper-demo) - Lightweight responsive Swiper for React.js
 - [EmilioAsteben/Typing-test](https://github.com/EmilioAsteben/Typing-test) - Typing speed test on React
@@ -181,6 +182,7 @@
 
 ## Swift 
 
+- [andrewn/brew-services-menubar](https://github.com/andrewn/brew-services-menubar) - An OS X menu item for starting and stopping homebrew services
 - [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter) - Dynamically changes status bar style depending on content behind it
 - [jariz/Akku](https://github.com/jariz/Akku) - Experimental bluetooth headset battery monitoring application for MacOS
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
