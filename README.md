@@ -218,6 +218,7 @@
 
 ## TypeScript 
 
+- [seek-oss/capsize](https://github.com/seek-oss/capsize) - Flipping how we define typography in CSS.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [dmbaranov/evemovies-bot](https://github.com/dmbaranov/evemovies-bot) - You won't miss your favorite movies anymore!
 - [torgeadelin/react-native-animated-nav-tab-bar](https://github.com/torgeadelin/react-native-animated-nav-tab-bar) - A simple and customisable React Native component that implements an animated bottom tab bar for React Navigation.
