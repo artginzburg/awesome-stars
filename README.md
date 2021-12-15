@@ -193,7 +193,7 @@
 - [rxhanson/ModMove](https://github.com/rxhanson/ModMove) - Move/Resize windows using modifiers and the mouse
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [smmr-software/privacy-redirect-safari](https://github.com/smmr-software/privacy-redirect-safari) - A Safari extension that redirects Twitter, YouTube, Reddit, and more to privacy friendly alternatives.
-- [lujjjh/LinearMouse](https://github.com/lujjjh/LinearMouse) - A macOS mouse utility. Customizable scrolling direction, scrolling acceleration, cursor acceleration, cursor sensitivity…And, universal back & forward.
+- [lujjjh/LinearMouse](https://github.com/lujjjh/LinearMouse) - For macOS mouse users.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage
