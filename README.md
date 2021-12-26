@@ -65,6 +65,8 @@
 
 ## JavaScript 
 
+- [jonatan5524/SnakeAI](https://github.com/jonatan5524/SnakeAI) - Snake game self played with genetic algorithm and neural network - NEAT
+- [dissimulate/Tearable-Cloth](https://github.com/dissimulate/Tearable-Cloth) - A tearable cloth simulation using vertlet integration.
 - [rjadyshkom/spa-seo](https://github.com/rjadyshkom/spa-seo) - 
 - [EmilioAsteben/React-chat](https://github.com/EmilioAsteben/React-chat) - React-chat powered by Firebase (Realtime Database)
 - [EmilioAsteben/React-swiper-demo](https://github.com/EmilioAsteben/React-swiper-demo) - Lightweight responsive Swiper for React.js
