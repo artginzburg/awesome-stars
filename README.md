@@ -65,6 +65,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [jonatan5524/SnakeAI](https://github.com/jonatan5524/SnakeAI) - Snake game self played with genetic algorithm and neural network - NEAT
 - [dissimulate/Tearable-Cloth](https://github.com/dissimulate/Tearable-Cloth) - A tearable cloth simulation using vertlet integration.
 - [rjadyshkom/spa-seo](https://github.com/rjadyshkom/spa-seo) - 
@@ -121,6 +122,7 @@
 
 ## Others 
 
+- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [demenskiy/mokka](https://github.com/demenskiy/mokka) - Minimal dark theme for Visual Studio Code.
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
