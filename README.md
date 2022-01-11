@@ -58,6 +58,7 @@
 
 ## HTML 
 
+- [GetOpenStore/getopenstore.github.io](https://github.com/GetOpenStore/getopenstore.github.io) - Website for OpenStore, an open app store
 - [Tinkoff/invest-openapi](https://github.com/Tinkoff/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
 - [leshark/nometa](https://github.com/leshark/nometa) - Проект по сбору датасета мета-вопросов
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
