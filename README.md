@@ -11,6 +11,7 @@
   - [C#](#c#)
   - [CSS](#css)
   - [Elm](#elm)
+  - [Go](#go)
   - [HTML](#html)
   - [JavaScript](#javascript)
   - [Makefile](#makefile)
@@ -55,6 +56,12 @@
 ## Elm 
 
 - [w0rm/elm-cubik](https://github.com/w0rm/elm-cubik) - Rubik's cube puzzle in the Elm language
+
+## Go 
+
+- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH app directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 
 ## HTML 
 
@@ -143,6 +150,7 @@
 
 ## Python 
 
+- [ebankoff/BoMbEr](https://github.com/ebankoff/BoMbEr) - 💥 sms bomber, email, WhatsApp, Telegram, Discord spammer and DoS attacker
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
