@@ -150,7 +150,7 @@
 
 ## Python 
 
-- [ebankoff/BoMbEr](https://github.com/ebankoff/BoMbEr) - 💥 sms bomber, email, WhatsApp, Telegram, Discord spammer and DoS attacker
+- [ebankoff/BoMbEr](https://github.com/ebankoff/BoMbEr) - sms bomber, email, WhatsApp, Telegram, Discord spammer and DoS attacker
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
