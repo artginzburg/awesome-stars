@@ -150,7 +150,7 @@
 
 ## Python 
 
-- [ebankoff/BoMbEr](https://github.com/ebankoff/BoMbEr) - sms bomber, email, WhatsApp, Telegram, Discord spammer and DoS attacker
+- [ebankoff/BoMbEr](https://github.com/ebankoff/BoMbEr) - POWERFUL AND FREE: SMS, call bomber, email, WhatsApp, Telegram, Discord spammer and DoS attacker
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -243,7 +243,7 @@
 - [trekhleb/self-parking-car-evolution](https://github.com/trekhleb/self-parking-car-evolution) - 🧬 Training the car to do self-parking using a genetic algorithm
 - [HanaDigital/grev](https://github.com/HanaDigital/grev) - Github Release Viewer. View your github repository release statistics.
 - [anuraghazra/vscode-strip-ts-copy](https://github.com/anuraghazra/vscode-strip-ts-copy) - Strip types from TypeScript code while copying it.
-- [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
