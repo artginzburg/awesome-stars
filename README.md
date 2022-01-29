@@ -233,6 +233,7 @@
 
 ## TypeScript 
 
+- [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [GetOpenStore/OpenStore](https://github.com/GetOpenStore/OpenStore) - An open app store
 - [seek-oss/capsize](https://github.com/seek-oss/capsize) - Flipping how we define typography in CSS.
