@@ -73,6 +73,7 @@
 
 ## JavaScript 
 
+- [juvirez/yandex-music-app](https://github.com/juvirez/yandex-music-app) - Неофициальное приложение Яндекс Музыка для MacOS
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [jonatan5524/SnakeAI](https://github.com/jonatan5524/SnakeAI) - Snake game self played with genetic algorithm and neural network - NEAT
