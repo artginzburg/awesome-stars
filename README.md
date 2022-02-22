@@ -234,6 +234,7 @@
 
 ## TypeScript 
 
+- [makskornakov/darkforce](https://github.com/makskornakov/darkforce) - 
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [GetOpenStore/OpenStore](https://github.com/GetOpenStore/OpenStore) - An open app store
@@ -250,7 +251,7 @@
 - [maxam2017/productive-box](https://github.com/maxam2017/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
 - [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar) - A 60FPS animated tab bar with a variety of cool animation presets 😎
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using clean architecture principles · 🧼 🏛 🍪
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
