@@ -39,6 +39,7 @@
 
 ## C 
 
+- [brandt/symlinks](https://github.com/brandt/symlinks) - symbolic link maintenance utility
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [takiz/symb](https://github.com/takiz/symb) - Замена выделенных ru/en символов как в Punto Switcher.
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
