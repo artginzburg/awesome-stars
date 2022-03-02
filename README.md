@@ -60,6 +60,7 @@
 
 ## Go 
 
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -152,6 +153,7 @@
 
 ## PHP 
 
+- [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [lorenzos/Minixed](https://github.com/lorenzos/Minixed) - A minimal but nice-looking PHP directory indexer.
 
 ## Python 
@@ -194,6 +196,7 @@
 
 ## Shell 
 
+- [ORESoftware/fame](https://github.com/ORESoftware/fame) - Command line tool to display git log information by user/commiter. :tickets:
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
