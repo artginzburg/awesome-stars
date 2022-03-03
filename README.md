@@ -39,6 +39,7 @@
 
 ## C 
 
+- [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [brandt/symlinks](https://github.com/brandt/symlinks) - symbolic link maintenance utility
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [takiz/symb](https://github.com/takiz/symb) - Замена выделенных ru/en символов как в Punto Switcher.
@@ -67,6 +68,7 @@
 
 ## HTML 
 
+- [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [GetOpenStore/getopenstore.github.io](https://github.com/GetOpenStore/getopenstore.github.io) - Website for OpenStore, an open app store
 - [Tinkoff/invest-openapi](https://github.com/Tinkoff/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
 - [leshark/nometa](https://github.com/leshark/nometa) - Проект по сбору датасета мета-вопросов
@@ -125,6 +127,7 @@
 
 ## Objective-C 
 
+- [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad. [macOS] [MultitouchSupport.framework]
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [lapfelix/ForceTouchVibrationCLI](https://github.com/lapfelix/ForceTouchVibrationCLI) - A very bad CLI interface to make the MacBook's Force Touch Trackpad vibrate
