@@ -24,6 +24,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Sass](#sass)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -77,6 +78,9 @@
 
 ## JavaScript 
 
+- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
+- [artginzburg/dotenv-extended-prepare](https://github.com/artginzburg/dotenv-extended-prepare) - :package: Auto-creating .env files based on .env.defaults and .env.schema from dotenv-extended
+- [cb372/line-count](https://github.com/cb372/line-count) - A line counter for GitHub-hosted repositories, built with node.js
 - [mvila/npm-addict](https://github.com/mvila/npm-addict) - Your daily injection of npm packages
 - [sindresorhus/invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object. Example: {foo: 'bar'} → {bar: 'foo'}
 - [amwmedia/eslint-plugin-woke](https://github.com/amwmedia/eslint-plugin-woke) - 
@@ -197,6 +201,10 @@
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 
+## Sass 
+
+- [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
+
 ## Shell 
 
 - [ORESoftware/fame](https://github.com/ORESoftware/fame) - Command line tool to display git log information by user/commiter. :tickets:
@@ -246,6 +254,7 @@
 
 ## TypeScript 
 
+- [znck/grammarly](https://github.com/znck/grammarly) - Unofficial Grammarly VS Code Extension
 - [makskornakov/darkforce](https://github.com/makskornakov/darkforce) - 
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
