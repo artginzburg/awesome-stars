@@ -78,11 +78,11 @@
 
 ## JavaScript 
 
+- [sindresorhus/invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object. Example: {foo: 'bar'} → {bar: 'foo'}
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [artginzburg/dotenv-extended-prepare](https://github.com/artginzburg/dotenv-extended-prepare) - :package: Auto-creating .env files based on .env.defaults and .env.schema from dotenv-extended
 - [cb372/line-count](https://github.com/cb372/line-count) - A line counter for GitHub-hosted repositories, built with node.js
 - [mvila/npm-addict](https://github.com/mvila/npm-addict) - Your daily injection of npm packages
-- [sindresorhus/invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object. Example: {foo: 'bar'} → {bar: 'foo'}
 - [amwmedia/eslint-plugin-woke](https://github.com/amwmedia/eslint-plugin-woke) - 
 - [juvirez/yandex-music-app](https://github.com/juvirez/yandex-music-app) - Неофициальное приложение Яндекс Музыка для MacOS
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
@@ -255,7 +255,6 @@
 ## TypeScript 
 
 - [znck/grammarly](https://github.com/znck/grammarly) - Unofficial Grammarly VS Code Extension
-- [makskornakov/darkforce](https://github.com/makskornakov/darkforce) - 
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [GetOpenStore/OpenStore](https://github.com/GetOpenStore/OpenStore) - An open app store
