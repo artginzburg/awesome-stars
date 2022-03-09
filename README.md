@@ -114,7 +114,7 @@
 - [telegraf/telegraf-command-parts](https://github.com/telegraf/telegraf-command-parts) - Command parameters parser middleware for Telegraf
 - [nchaulet/node-geocoder](https://github.com/nchaulet/node-geocoder) - nodejs geocoding library
 - [siddharthkp/auto-install](https://github.com/siddharthkp/auto-install) - Install dependencies as you code ⚡️
-- [proehavshiy/react-mesto-auth](https://github.com/proehavshiy/react-mesto-auth) - Проект Mesto на Реакте с авторизацией и регистрацией
+- [proehavshiy/react-mesto-auth](https://github.com/proehavshiy/react-mesto-auth) - React SPA "Mesto"
 - [onthehead/sketch-plugin-invert-colors](https://github.com/onthehead/sketch-plugin-invert-colors) - This plugin invert colors (textColor, fills, borders, gradations) of the selected layer.
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
@@ -254,6 +254,9 @@
 
 ## TypeScript 
 
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [znck/grammarly](https://github.com/znck/grammarly) - Unofficial Grammarly VS Code Extension
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
