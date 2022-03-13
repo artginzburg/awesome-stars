@@ -78,6 +78,7 @@
 
 ## JavaScript 
 
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [sindresorhus/invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object. Example: {foo: 'bar'} → {bar: 'foo'}
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [artginzburg/dotenv-extended-prepare](https://github.com/artginzburg/dotenv-extended-prepare) - :package: Auto-creating .env files based on .env.defaults and .env.schema from dotenv-extended
@@ -207,6 +208,7 @@
 
 ## Shell 
 
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [ORESoftware/fame](https://github.com/ORESoftware/fame) - Command line tool to display git log information by user/commiter. :tickets:
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -254,6 +256,7 @@
 
 ## TypeScript 
 
+- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
