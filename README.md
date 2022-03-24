@@ -111,7 +111,7 @@
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [fancyapps/ui](https://github.com/fancyapps/ui) - JavaScript UI component library, includes the latest Fancybox
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
-- [webcatalog/translatium-desktop](https://github.com/webcatalog/translatium-desktop) - Official Translatium app for desktop.
+- [webcatalog/translatium-legacy](https://github.com/webcatalog/translatium-legacy) - Legacy code of Translatium app for desktop.
 - [virejdasani/Responsivize](https://github.com/virejdasani/Responsivize) - A must-have tool to develop responsive websites 📲
 - [wannaseedeadbody/wannaseedeadbody.github.io](https://github.com/wannaseedeadbody/wannaseedeadbody.github.io) - 
 - [odditive/heroku-node-telegram-bot](https://github.com/odditive/heroku-node-telegram-bot) - Starter pack for running telegram bot on the Heroku using Node.js
