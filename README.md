@@ -263,6 +263,7 @@
 
 ## TypeScript 
 
+- [pzavolinsky/ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - ts-unused-exports finds unused exported symbols in your Typescript project
 - [kentcdodds/babel-plugin-preval](https://github.com/kentcdodds/babel-plugin-preval) - 🐣 Pre-evaluate code at build-time
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
