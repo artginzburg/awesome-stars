@@ -78,6 +78,7 @@
 
 ## JavaScript 
 
+- [wbyoung/avn](https://github.com/wbyoung/avn) - Automatic Version Switching for Node
 - [kentcdodds/preval.macro](https://github.com/kentcdodds/preval.macro) - Pre-evaluate code at build-time with babel-macros
 - [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - StandWithUkraine support materials
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
