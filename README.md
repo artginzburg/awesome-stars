@@ -49,6 +49,7 @@
 
 ## C# # 
 
+- [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [AnaghSharma/Carol-Xamarin](https://github.com/AnaghSharma/Carol-Xamarin) - A minimal and beautiful lyrics app for macOS built with Xamarin and C#
 
 ## CSS 
@@ -146,7 +147,7 @@
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native Mac applications from command line scripts.
 - [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - macOS app to capture your screen as a layered PSD file
 - [waylybaye/XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos
-- [InjoyDeng/ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. Unrestricted by the applicationIdentifier in the ProvisioningProfile file.
+- [InjoyDeng/ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. Unrestricted by the applicationIdentifier in the ProvisioningProfile fil
 
 ## Others 
 
@@ -172,7 +173,7 @@
 
 ## Python 
 
-- [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - sms bomber, call bomber, email spammer, WhatsApp spammer, Telegram spammer, Discord spammer and DoS attacker
+- [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - SMS bomber, email spammer, WhatsApp spammer, Telegram spammer, Discord spammer and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -219,7 +220,7 @@
 - [ORESoftware/fame](https://github.com/ORESoftware/fame) - Command line tool to display git log information by user/commiter. :tickets:
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [luclu7/dotfiles](https://github.com/luclu7/dotfiles) - Just a repo for my dotfiles
 - [Yukaii/dotfile-s](https://github.com/Yukaii/dotfile-s) - Yukai's dotfiles
 - [iljaiwas/objc-run](https://github.com/iljaiwas/objc-run) - A shell script that makes it easy to use Objective-C files for shell script-like tasks.
@@ -270,7 +271,7 @@
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
-- [znck/grammarly](https://github.com/znck/grammarly) - Unofficial Grammarly VS Code Extension
+- [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [GetOpenStore/OpenStore](https://github.com/GetOpenStore/OpenStore) - An open app store
