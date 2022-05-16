@@ -79,6 +79,7 @@
 
 ## JavaScript 
 
+- [Mashpoe/1D-Game](https://github.com/Mashpoe/1D-Game) - A first-person game from the perspective of a 2D life form, which makes it a 1D game. Try to make it to level 5 without getting a headache!
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [wbyoung/avn](https://github.com/wbyoung/avn) - Automatic Version Switching for Node
 - [kentcdodds/preval.macro](https://github.com/kentcdodds/preval.macro) - Pre-evaluate code at build-time with babel-macros
@@ -156,7 +157,7 @@
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [demenskiy/mokka](https://github.com/demenskiy/mokka) - Minimal dark theme for Visual Studio Code.
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
 - [naumch1k/naumch1k](https://github.com/naumch1k/naumch1k) - 
