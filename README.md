@@ -9,6 +9,7 @@
 - [AutoHotkey](#autohotkey)
 - [C](#c)
 - [C#](#c#)
+- [C++](#c++)
 - [CSS](#css)
 - [Elm](#elm)
 - [Go](#go)
@@ -51,6 +52,10 @@
 
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [AnaghSharma/Carol-Xamarin](https://github.com/AnaghSharma/Carol-Xamarin) - A minimal and beautiful lyrics app for macOS built with Xamarin and C#
+
+## C++ 
+
+- [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol) - Trajectories finder
 
 ## CSS 
 
@@ -267,6 +272,7 @@
 
 ## TypeScript 
 
+- [KonradLinkowski/AntiCollision](https://github.com/KonradLinkowski/AntiCollision) - Collision detection bug
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [pzavolinsky/ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - ts-unused-exports finds unused exported symbols in your Typescript project
