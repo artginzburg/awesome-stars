@@ -84,6 +84,7 @@
 
 ## JavaScript 
 
+- [rafinskipg/neural-network-js](https://github.com/rafinskipg/neural-network-js) - A neural network in JS
 - [Mashpoe/1D-Game](https://github.com/Mashpoe/1D-Game) - A first-person game from the perspective of a 2D life form, which makes it a 1D game. Try to make it to level 5 without getting a headache!
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [wbyoung/avn](https://github.com/wbyoung/avn) - Automatic Version Switching for Node
@@ -272,6 +273,7 @@
 
 ## TypeScript 
 
+- [makskornakov/neural-app](https://github.com/makskornakov/neural-app) - tests
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [KonradLinkowski/AntiCollision](https://github.com/KonradLinkowski/AntiCollision) - Collision detection bug
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
