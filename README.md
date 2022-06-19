@@ -95,7 +95,6 @@
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [sindresorhus/invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object. Example: {foo: 'bar'} → {bar: 'foo'}
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [artginzburg/dotenv-extended-prepare](https://github.com/artginzburg/dotenv-extended-prepare) - :package: Auto-creating .env files based on .env.defaults and .env.schema from dotenv-extended
 - [cb372/line-count](https://github.com/cb372/line-count) - A line counter for GitHub-hosted repositories, built with node.js
 - [mvila/npm-addict](https://github.com/mvila/npm-addict) - Your daily injection of npm packages
 - [amwmedia/eslint-plugin-woke](https://github.com/amwmedia/eslint-plugin-woke) - 
@@ -273,6 +272,7 @@
 
 ## TypeScript 
 
+- [artginzburg/dotenv-extended-prepare](https://github.com/artginzburg/dotenv-extended-prepare) - :package: Auto-creating .env files based on .env.defaults and .env.schema from dotenv-extended
 - [makskornakov/neural-app](https://github.com/makskornakov/neural-app) - tests
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [KonradLinkowski/AntiCollision](https://github.com/KonradLinkowski/AntiCollision) - Collision detection bug
