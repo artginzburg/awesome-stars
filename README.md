@@ -182,7 +182,7 @@
 
 ## Python 
 
-- [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - SMS bomber, email spammer, WhatsApp spammer, Telegram spammer, Discord spammer and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
+- [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
