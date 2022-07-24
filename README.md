@@ -160,6 +160,7 @@
 
 ## Others 
 
+- [nihadenes/Btw-I-use-Didows10](https://github.com/nihadenes/Btw-I-use-Didows10) - Didows10 is a version of Windows10 that comes without all Microsoft trashes, it's able to run on 2GB RAM.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
