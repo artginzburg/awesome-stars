@@ -160,7 +160,7 @@
 
 ## Others 
 
-- [nihadenes/Btw-I-use-Didows10](https://github.com/nihadenes/Btw-I-use-Didows10) - Didows10 is a version of Windows10 that comes without all Microsoft trashes, it's able to run on 2GB RAM.
+- [nihadenes/awesome-github-profile-readme-templates](https://github.com/nihadenes/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
@@ -276,6 +276,7 @@
 
 ## TypeScript 
 
+- [nikelborm/educational-testings](https://github.com/nikelborm/educational-testings) - 
 - [artginzburg/dotenv-extended-prepare](https://github.com/artginzburg/dotenv-extended-prepare) - :package: Auto-creating .env files based on .env.defaults and .env.schema from dotenv-extended
 - [makskornakov/neural-app](https://github.com/makskornakov/neural-app) - tests
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
