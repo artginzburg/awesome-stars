@@ -183,6 +183,7 @@
 
 ## Python 
 
+- [nihadenes/AsciCam](https://github.com/nihadenes/AsciCam) - A program converts your webcam input to ascii and prints it on the screen.
 - [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
