@@ -160,7 +160,6 @@
 
 ## Others 
 
-- [nihadenes/awesome-github-profile-readme-templates](https://github.com/nihadenes/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
@@ -183,7 +182,6 @@
 
 ## Python 
 
-- [nihadenes/AsciCam](https://github.com/nihadenes/AsciCam) - A program converts your webcam input to ascii and prints it on the screen.
 - [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
