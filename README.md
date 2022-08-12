@@ -84,6 +84,8 @@
 
 ## JavaScript 
 
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
+- [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [sindresorhus/make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [rafinskipg/neural-network-js](https://github.com/rafinskipg/neural-network-js) - A neural network in JS
@@ -275,6 +277,7 @@
 
 ## TypeScript 
 
+- [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [nikelborm/educational-testings](https://github.com/nikelborm/educational-testings) - 
 - [artginzburg/dotenv-extended-prepare](https://github.com/artginzburg/dotenv-extended-prepare) - :package: Auto-creating .env files based on .env.defaults and .env.schema from dotenv-extended
