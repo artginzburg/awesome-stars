@@ -84,6 +84,7 @@
 
 ## JavaScript 
 
+- [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [sindresorhus/make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker
@@ -277,6 +278,8 @@
 
 ## TypeScript 
 
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [nikelborm/educational-testings](https://github.com/nikelborm/educational-testings) - 
