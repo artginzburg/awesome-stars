@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
 - [C](#c)
 - [C#](#c#)
@@ -31,10 +30,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 
-## Assembly 
-
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
-
 ## AutoHotkey 
 
 - [Krot66/LangBarXX](https://github.com/Krot66/LangBarXX) - Индикация раскладки у курсора и ее исправление (замена Punto Switcher)
@@ -51,6 +46,7 @@
 ## C# # 
 
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [AnaghSharma/Carol-Xamarin](https://github.com/AnaghSharma/Carol-Xamarin) - A minimal and beautiful lyrics app for macOS built with Xamarin and C#
 
 ## C++ 
