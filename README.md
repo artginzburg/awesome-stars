@@ -151,6 +151,7 @@
 
 ## Objective-C 
 
+- [gltchitm/keyboard-cleaner](https://github.com/gltchitm/keyboard-cleaner) - KeyboardCleaner is a macOS app for temporarily disabling input devices.
 - [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad. [macOS] [MultitouchSupport.framework]
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
