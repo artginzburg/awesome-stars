@@ -84,6 +84,7 @@
 
 ## JavaScript 
 
+- [artginzburg/PiPOSS](https://github.com/artginzburg/PiPOSS) -  Brings Picture in Picture shortcut and custom button to any video.
 - [Code-Bullet/Jump-King](https://github.com/Code-Bullet/Jump-King) - play meeeeee
 - [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
@@ -308,7 +309,7 @@
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [dmbaranov/evemovies-bot](https://github.com/dmbaranov/evemovies-bot) - You won't miss your favorite movies anymore!
 - [torgeadelin/react-native-animated-nav-tab-bar](https://github.com/torgeadelin/react-native-animated-nav-tab-bar) - A simple and customisable React Native component that implements an animated bottom tab bar for React Navigation.
-- [lucafalasco/scroll-snap](https://github.com/lucafalasco/scroll-snap) - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour
+- [ocsal/scroll-snap](https://github.com/ocsal/scroll-snap) - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour
 - [trekhleb/self-parking-car-evolution](https://github.com/trekhleb/self-parking-car-evolution) - 🧬 Training the car to do self-parking using a genetic algorithm
 - [HanaDigital/grev](https://github.com/HanaDigital/grev) - Github Release Viewer. View your github repository release statistics.
 - [anuraghazra/vscode-strip-ts-copy](https://github.com/anuraghazra/vscode-strip-ts-copy) - Strip types from TypeScript code while copying it.
