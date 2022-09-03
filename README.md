@@ -152,6 +152,7 @@
 
 ## Objective-C 
 
+- [mhuusko5/M5MultitouchSupport](https://github.com/mhuusko5/M5MultitouchSupport) - [Maintained] [macOS] Easily and (thread/memory) safely consume global macOS multitouch (trackpad, Magic Mouse) events.
 - [gltchitm/keyboard-cleaner](https://github.com/gltchitm/keyboard-cleaner) - KeyboardCleaner is a macOS app for temporarily disabling input devices.
 - [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad. [macOS] [MultitouchSupport.framework]
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
@@ -245,6 +246,7 @@
 
 ## Swift 
 
+- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Command-Tab with Trackpad on macOS.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [andrewn/brew-services-menubar](https://github.com/andrewn/brew-services-menubar) - An OS X menu item for starting and stopping homebrew services
