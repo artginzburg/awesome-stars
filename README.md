@@ -84,6 +84,7 @@
 
 ## JavaScript 
 
+- [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [artginzburg/PiPOSS](https://github.com/artginzburg/PiPOSS) -  Brings Picture in Picture shortcut and custom button to any video.
 - [Code-Bullet/Jump-King](https://github.com/Code-Bullet/Jump-King) - play meeeeee
 - [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
@@ -246,6 +247,7 @@
 
 ## Swift 
 
+- [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Command-Tab with Trackpad on macOS.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
