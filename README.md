@@ -84,6 +84,7 @@
 
 ## JavaScript 
 
+- [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [frankarendpoth/frankarendpoth.github.io](https://github.com/frankarendpoth/frankarendpoth.github.io) - Frank Poth's Github page
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [artginzburg/PiPOSS](https://github.com/artginzburg/PiPOSS) -  Brings Picture in Picture shortcut and custom button to any video.
