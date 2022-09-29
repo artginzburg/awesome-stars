@@ -75,6 +75,7 @@
 
 ## HTML 
 
+- [kamil-kielczewski/fractals](https://github.com/kamil-kielczewski/fractals) - Currently Mandelbulb fractal
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [GetOpenStore/getopenstore.github.io](https://github.com/GetOpenStore/getopenstore.github.io) - Website for OpenStore, an open app store
 - [Tinkoff/invest-openapi](https://github.com/Tinkoff/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
