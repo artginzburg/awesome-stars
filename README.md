@@ -77,7 +77,7 @@
 
 - [kamil-kielczewski/fractals](https://github.com/kamil-kielczewski/fractals) - Currently Mandelbulb fractal
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [GetOpenStore/getopenstore.github.io](https://github.com/GetOpenStore/getopenstore.github.io) - Website for OpenStore, an open app store
+- [GetOvert/getovert.github.io](https://github.com/GetOvert/getovert.github.io) - Website for Overt, an open app store (previously OpenStore)
 - [Tinkoff/invest-openapi](https://github.com/Tinkoff/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
 - [leshark/nometa](https://github.com/leshark/nometa) - Проект по сбору датасета мета-вопросов
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
@@ -313,7 +313,7 @@
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [GetOpenStore/OpenStore](https://github.com/GetOpenStore/OpenStore) - An open app store
+- [GetOvert/Overt](https://github.com/GetOvert/Overt) - An open app store
 - [seek-oss/capsize](https://github.com/seek-oss/capsize) - Flipping how we define typography in CSS.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [dmbaranov/evemovies-bot](https://github.com/dmbaranov/evemovies-bot) - You won't miss your favorite movies anymore!
