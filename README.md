@@ -289,6 +289,7 @@
 
 ## TypeScript 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [eelfy/atleastimtryin](https://github.com/eelfy/atleastimtryin) - 
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [BriteSnow/vscode-toggle-quotes](https://github.com/BriteSnow/vscode-toggle-quotes) - Simple quote toggler that cycle through " ' and `
