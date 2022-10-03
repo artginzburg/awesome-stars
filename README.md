@@ -289,7 +289,7 @@
 
 ## TypeScript 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
+- [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest en
 - [eelfy/atleastimtryin](https://github.com/eelfy/atleastimtryin) - 
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [BriteSnow/vscode-toggle-quotes](https://github.com/BriteSnow/vscode-toggle-quotes) - Simple quote toggler that cycle through " ' and `
@@ -314,7 +314,7 @@
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [GetOvert/Overt](https://github.com/GetOvert/Overt) - An open app store
+- [GetOvert/Overt](https://github.com/GetOvert/Overt) - An open app store (previously OpenStore)
 - [seek-oss/capsize](https://github.com/seek-oss/capsize) - Flipping how we define typography in CSS.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [dmbaranov/evemovies-bot](https://github.com/dmbaranov/evemovies-bot) - You won't miss your favorite movies anymore!
