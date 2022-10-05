@@ -229,6 +229,7 @@
 
 ## Rust 
 
+- [Hywan/LaMaisonVivante](https://github.com/Hywan/LaMaisonVivante) - Home Automation programs for my self-sufficient house
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
