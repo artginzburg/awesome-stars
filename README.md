@@ -206,7 +206,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
-- [Hukuta/layout_corrector](https://github.com/Hukuta/layout_corrector) - Punto Switcher for Linux
+- [coffebar/layout_corrector](https://github.com/coffebar/layout_corrector) - Punto Switcher for Linux
 - [cahidenes/rubiks-cube-solver](https://github.com/cahidenes/rubiks-cube-solver) - Rubik's Cube solver with cube detection using OpenCV in python
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [joelbarmettlerUZH/auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder) - 🖖 Train an artificial intelligence to play tinder for you
