@@ -337,7 +337,7 @@
 - [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar) - A 60FPS animated tab bar with a variety of cool animation presets 😎
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using clean architecture principles · 🧼 🏛 🍪
+- [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles · 🧼 🏛 🍪
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [alexnzarov/telegraf-session-mongodb](https://github.com/alexnzarov/telegraf-session-mongodb) - MongoDB session middleware for Telegraf
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
