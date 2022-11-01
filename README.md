@@ -296,6 +296,7 @@
 
 ## TypeScript 
 
+- [nikelborm/project-boilerplate](https://github.com/nikelborm/project-boilerplate) - 
 - [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and 
 - [eelfy/atleastimtryin](https://github.com/eelfy/atleastimtryin) - 
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
