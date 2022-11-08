@@ -275,7 +275,7 @@
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - 🖱 The mouse and trackpad utility for Mac.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
-- [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage
+- [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter) - macOS tool to limit maximum charging percentage
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
 - [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
