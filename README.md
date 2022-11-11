@@ -297,7 +297,7 @@
 ## TypeScript 
 
 - [nikelborm/project-boilerplate](https://github.com/nikelborm/project-boilerplate) - 
-- [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for developers
 - [eelfy/atleastimtryin](https://github.com/eelfy/atleastimtryin) - 
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [BriteSnow/vscode-toggle-quotes](https://github.com/BriteSnow/vscode-toggle-quotes) - Simple quote toggler that cycle through " ' and `
