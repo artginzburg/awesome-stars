@@ -299,6 +299,7 @@
 
 ## TypeScript 
 
+- [EqualMa/gitpkg](https://github.com/EqualMa/gitpkg) - use a sub directory of a github repo as yarn / npm dependency directly
 - [nikelborm/project-boilerplate](https://github.com/nikelborm/project-boilerplate) - 
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for developers
 - [eelfy/atleastimtryin](https://github.com/eelfy/atleastimtryin) - 
