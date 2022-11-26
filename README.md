@@ -74,7 +74,7 @@
 ## Go 
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal ♟️
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
