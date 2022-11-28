@@ -74,7 +74,7 @@
 ## Go 
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal ♟️
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -291,7 +291,7 @@
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
 - [ThatsJustCheesy/defaults-edit](https://github.com/ThatsJustCheesy/defaults-edit) - Graphical user defaults editor for macOS
-- [Sunnyyoung/Suohai](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock/switcher for macOS.
+- [sunnyyoung/Suohai](https://github.com/sunnyyoung/Suohai) - Audio input/output source lock/switcher for macOS.
 - [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac
 - [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac) - Cocoa Interface for youtube-dl
 
