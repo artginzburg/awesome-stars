@@ -301,6 +301,7 @@
 
 ## TypeScript 
 
+- [xsburg/vscode-javascript-booster](https://github.com/xsburg/vscode-javascript-booster) - Sprinkle extra refactorings, code actions and commands over your JavaScript! 🍩 TypeScript and Flow are first class citizens as well!
 - [EqualMa/gitpkg](https://github.com/EqualMa/gitpkg) - use a sub directory of a github repo as yarn / npm dependency directly
 - [nikelborm/project-boilerplate](https://github.com/nikelborm/project-boilerplate) - 
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
