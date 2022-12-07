@@ -301,6 +301,7 @@
 
 ## TypeScript 
 
+- [wraith13/open-in-github-desktop-vscode](https://github.com/wraith13/open-in-github-desktop-vscode) - Open in GitHub Desktop from VS Code
 - [makskornakov/canvas-trading-demo](https://github.com/makskornakov/canvas-trading-demo) - Demo project for canvas-trading drawing module
 - [xsburg/vscode-javascript-booster](https://github.com/xsburg/vscode-javascript-booster) - Sprinkle extra refactorings, code actions and commands over your JavaScript! 🍩 TypeScript and Flow are first class citizens as well!
 - [EqualMa/gitpkg](https://github.com/EqualMa/gitpkg) - use a sub directory of a github repo as yarn / npm dependency directly
