@@ -90,6 +90,7 @@
 
 ## JavaScript 
 
+- [umijs/babel-plugin-import](https://github.com/umijs/babel-plugin-import) - Modularly import plugin for babel.
 - [manuelmhtr/countries-and-timezones](https://github.com/manuelmhtr/countries-and-timezones) - Minimalistic library to work with countries and timezones data
 - [manuelmhtr/countries-db](https://github.com/manuelmhtr/countries-db) - Minimalistic library to work with countries data.
 - [progressclaim/countryjs](https://github.com/progressclaim/countryjs) - A module for returning data about countries, ISO info and states/provinces within them. Browserify-compatible
