@@ -122,7 +122,7 @@
 - [mvila/npm-addict](https://github.com/mvila/npm-addict) - Your daily injection of npm packages
 - [amwmedia/eslint-plugin-woke](https://github.com/amwmedia/eslint-plugin-woke) - 
 - [juvirez/yandex-music-app](https://github.com/juvirez/yandex-music-app) - Неофициальное приложение Яндекс Музыка для MacOS
-- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [jonatan5524/SnakeAI](https://github.com/jonatan5524/SnakeAI) - Snake game self played with genetic algorithm and neural network - NEAT
 - [dissimulate/Tearable-Cloth](https://github.com/dissimulate/Tearable-Cloth) - A tearable cloth simulation using vertlet integration.
