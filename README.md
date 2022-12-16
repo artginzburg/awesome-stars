@@ -206,6 +206,7 @@
 
 ## Python 
 
+- [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
 - [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -256,7 +257,7 @@
 - [ORESoftware/fame](https://github.com/ORESoftware/fame) - Command line tool to display git log information by user/commiter. :tickets:
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [luclu7/dotfiles](https://github.com/luclu7/dotfiles) - Just a repo for my dotfiles
 - [Yukaii/dotfile-s](https://github.com/Yukaii/dotfile-s) - Yukai's dotfiles
 - [iljaiwas/objc-run](https://github.com/iljaiwas/objc-run) - A shell script that makes it easy to use Objective-C files for shell script-like tasks.
