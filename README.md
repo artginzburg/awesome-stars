@@ -141,7 +141,7 @@
 - [luclu7/v2shrug-bot](https://github.com/luclu7/v2shrug-bot) - ¯\_(ツ)_/¯
 - [camillebaronnet/calculator](https://github.com/camillebaronnet/calculator) - :trophy: Ergonomic and modern calculator
 - [kingdido999/zooming](https://github.com/kingdido999/zooming) - 🔍 Image zoom that makes sense.
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [fancyapps/ui](https://github.com/fancyapps/ui) - JavaScript UI component library, includes the latest Fancybox
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
@@ -304,6 +304,7 @@
 
 ## TypeScript 
 
+- [azat-io/postcss-responsive](https://github.com/azat-io/postcss-responsive) - 📐 PostCSS plugin that improves developer experience of responsive design
 - [wraith13/open-in-github-desktop-vscode](https://github.com/wraith13/open-in-github-desktop-vscode) - Open in GitHub Desktop from VS Code
 - [makskornakov/canvas-trading-demo](https://github.com/makskornakov/canvas-trading-demo) - Demo project for canvas-trading drawing module
 - [xsburg/vscode-javascript-booster](https://github.com/xsburg/vscode-javascript-booster) - Sprinkle extra refactorings, code actions and commands over your JavaScript! 🍩 TypeScript and Flow are first class citizens as well!
