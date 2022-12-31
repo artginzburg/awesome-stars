@@ -305,6 +305,7 @@
 
 ## TypeScript 
 
+- [sirmspencer/vscode-autohide](https://github.com/sirmspencer/vscode-autohide) - 
 - [maptz/Maptz.VSCode.Extensions.CamelCaseNavigation](https://github.com/maptz/Maptz.VSCode.Extensions.CamelCaseNavigation) - 
 - [azat-io/postcss-responsive](https://github.com/azat-io/postcss-responsive) - 📐 PostCSS plugin that improves developer experience of responsive design
 - [wraith13/open-in-github-desktop-vscode](https://github.com/wraith13/open-in-github-desktop-vscode) - Open in GitHub Desktop from VS Code
