@@ -306,6 +306,7 @@
 
 ## TypeScript 
 
+- [KonradLinkowski/Stack](https://github.com/KonradLinkowski/Stack) - Tower stacking game made using Three.js
 - [sirmspencer/vscode-autohide](https://github.com/sirmspencer/vscode-autohide) - 
 - [maptz/Maptz.VSCode.Extensions.CamelCaseNavigation](https://github.com/maptz/Maptz.VSCode.Extensions.CamelCaseNavigation) - 
 - [azat-io/postcss-responsive](https://github.com/azat-io/postcss-responsive) - 📐 PostCSS plugin that improves developer experience of responsive design
@@ -329,7 +330,7 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [KonradLinkowski/AntiCollision](https://github.com/KonradLinkowski/AntiCollision) - Collision detection bug
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
-- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [pzavolinsky/ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - ts-unused-exports finds unused exported symbols in your Typescript project
 - [kentcdodds/babel-plugin-preval](https://github.com/kentcdodds/babel-plugin-preval) - 🐣 Pre-evaluate code at build-time
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
