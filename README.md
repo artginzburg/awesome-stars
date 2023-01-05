@@ -306,6 +306,7 @@
 
 ## TypeScript 
 
+- [rjadyshkom/react-production](https://github.com/rjadyshkom/react-production) - 
 - [KonradLinkowski/Stack](https://github.com/KonradLinkowski/Stack) - Tower stacking game made using Three.js
 - [sirmspencer/vscode-autohide](https://github.com/sirmspencer/vscode-autohide) - 
 - [maptz/Maptz.VSCode.Extensions.CamelCaseNavigation](https://github.com/maptz/Maptz.VSCode.Extensions.CamelCaseNavigation) - 
