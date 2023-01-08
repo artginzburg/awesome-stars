@@ -90,6 +90,7 @@
 
 ## JavaScript 
 
+- [ris58h/kinoknopki](https://github.com/ris58h/kinoknopki) - A Web Extension for KinoPoisk and IMDb.
 - [alexfernandez/loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
 - [yairEO/title-tooltip](https://github.com/yairEO/title-tooltip) - Automatically converts HTML title attributes to nicer better tooltips
 - [ArtemOnigiri/Light-Simulation-WebGL](https://github.com/ArtemOnigiri/Light-Simulation-WebGL) - 
