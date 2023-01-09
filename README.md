@@ -172,6 +172,7 @@
 
 ## Objective-C 
 
+- [haqu/tiny-wings](https://github.com/haqu/tiny-wings) - Remake of the popular iPhone game.
 - [mhuusko5/M5MultitouchSupport](https://github.com/mhuusko5/M5MultitouchSupport) - [Maintained] [macOS] Easily and (thread/memory) safely consume global macOS multitouch (trackpad, Magic Mouse) events.
 - [gltchitm/keyboard-cleaner](https://github.com/gltchitm/keyboard-cleaner) - KeyboardCleaner is a macOS app for temporarily disabling input devices.
 - [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad. [macOS] [MultitouchSupport.framework]
@@ -212,7 +213,7 @@
 
 - [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
-- [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
+- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [TinkeringPenguin/donut](https://github.com/TinkeringPenguin/donut) - DONUTS DONUTS DONUTS 🍩
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
