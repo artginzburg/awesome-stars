@@ -64,6 +64,7 @@
 
 ## CSS 
 
+- [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [vasu-gondaliya/rubiks-cube](https://github.com/vasu-gondaliya/rubiks-cube) - A Rubik's Cube Visualizer with face turns, cube rotations, scramble generator, flat view of cube and cube animation
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 
@@ -211,6 +212,7 @@
 
 ## Python 
 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
