@@ -189,6 +189,7 @@
 
 ## Others 
 
+- [gsimone/awesome-react-three-fiber](https://github.com/gsimone/awesome-react-three-fiber) - 🍕 A loose collection of cool r3f links, gifs, people, stuff
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
@@ -214,7 +215,7 @@
 
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
-- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
+- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [TinkeringPenguin/donut](https://github.com/TinkeringPenguin/donut) - DONUTS DONUTS DONUTS 🍩
@@ -310,7 +311,9 @@
 
 ## TypeScript 
 
-- [rjadyshkom/react-production](https://github.com/rjadyshkom/react-production) - 
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+- [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
 - [KonradLinkowski/Stack](https://github.com/KonradLinkowski/Stack) - Tower stacking game made using Three.js
 - [sirmspencer/vscode-autohide](https://github.com/sirmspencer/vscode-autohide) - 
 - [maptz/Maptz.VSCode.Extensions.CamelCaseNavigation](https://github.com/maptz/Maptz.VSCode.Extensions.CamelCaseNavigation) - 
