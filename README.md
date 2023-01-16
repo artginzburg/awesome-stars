@@ -17,6 +17,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Makefile](#makefile)
+- [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -64,6 +65,7 @@
 
 ## CSS 
 
+- [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [vasu-gondaliya/rubiks-cube](https://github.com/vasu-gondaliya/rubiks-cube) - A Rubik's Cube Visualizer with face turns, cube rotations, scramble generator, flat view of cube and cube animation
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
@@ -91,6 +93,7 @@
 
 ## JavaScript 
 
+- [litdevelopers/tinder](https://github.com/litdevelopers/tinder) - Super Charged Tinder web client - Incremental Storage, recommendation filtering, live chat, web notifications
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ris58h/kinoknopki](https://github.com/ris58h/kinoknopki) - A Web Extension for KinoPoisk and IMDb.
 - [alexfernandez/loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
@@ -171,6 +174,10 @@
 ## Makefile 
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+
+## OCaml 
+
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## Objective-C 
 
@@ -312,6 +319,9 @@
 
 ## TypeScript 
 
+- [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
+- [artginzburg/stack](https://github.com/artginzburg/stack) - Tower stacking game using React Three Fiber (WebGL)
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
