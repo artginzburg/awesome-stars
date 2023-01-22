@@ -15,6 +15,7 @@
 - [Elm](#elm)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Makefile](#makefile)
 - [OCaml](#ocaml)
@@ -91,8 +92,13 @@
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [crockpotveggies/tinderbox](https://github.com/crockpotveggies/tinderbox) - Automate Tinder swiping and introductions with Eigenfaces and StanfordNLP. NOTE: support for this project has been sunset, and the original author has since directed efforts towards Bernie AI.
 
+## Java 
+
+- [FlorentCollin/baba-is-you](https://github.com/FlorentCollin/baba-is-you) - Puzzle game where the player can change rules by pushing blocks and win by a lot of different ways. Based on the game "Baba Is You" of Arvi Teikari.
+
 ## JavaScript 
 
+- [Mokapon/babaknowstruth](https://github.com/Mokapon/babaknowstruth) - Silly app based on the game Baba Is You, by Hempuli.
 - [litdevelopers/tinder](https://github.com/litdevelopers/tinder) - Super Charged Tinder web client - Incremental Storage, recommendation filtering, live chat, web notifications
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ris58h/kinoknopki](https://github.com/ris58h/kinoknopki) - A Web Extension for KinoPoisk and IMDb.
