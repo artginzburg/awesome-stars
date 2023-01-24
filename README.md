@@ -25,6 +25,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [Rich Text Format](#rich-text-format)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -98,6 +99,7 @@
 
 ## JavaScript 
 
+- [postcss/postcss-100vh-fix](https://github.com/postcss/postcss-100vh-fix) - PostCSS plugin to fix height/min-height: 100vh on iOS
 - [Mokapon/babaknowstruth](https://github.com/Mokapon/babaknowstruth) - Silly app based on the game Baba Is You, by Hempuli.
 - [litdevelopers/tinder](https://github.com/litdevelopers/tinder) - Super Charged Tinder web client - Incremental Storage, recommendation filtering, live chat, web notifications
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -252,6 +254,10 @@
 
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 
+## Roff 
+
+- [0beqz/screen-space-reflections](https://github.com/0beqz/screen-space-reflections) - Implements Screen Space Reflections in three.js
+
 ## Ruby 
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's update PR creation logic. Feedback: https://github.com/orgs/community/discussions/categories/code-security
@@ -325,6 +331,7 @@
 
 ## TypeScript 
 
+- [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [artginzburg/stack](https://github.com/artginzburg/stack) - Tower stacking game using React Three Fiber (WebGL)
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
