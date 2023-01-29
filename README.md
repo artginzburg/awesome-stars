@@ -294,6 +294,7 @@
 
 ## Swift 
 
+- [danilofuchs/ForceTouchPlayer](https://github.com/danilofuchs/ForceTouchPlayer) - Play songs with a Macbook trackpad
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on macOS.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
