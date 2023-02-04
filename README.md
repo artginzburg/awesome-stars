@@ -99,6 +99,7 @@
 
 ## JavaScript 
 
+- [yuchi/hooks.macro](https://github.com/yuchi/hooks.macro) - ☔️ Babel Macros for automatic React Hooks memoization invalidation
 - [postcss/postcss-100vh-fix](https://github.com/postcss/postcss-100vh-fix) - PostCSS plugin to fix height/min-height: 100vh on iOS
 - [Mokapon/babaknowstruth](https://github.com/Mokapon/babaknowstruth) - Silly app based on the game Baba Is You, by Hempuli.
 - [litdevelopers/tinder](https://github.com/litdevelopers/tinder) - Super Charged Tinder web client - Incremental Storage, recommendation filtering, live chat, web notifications
@@ -333,6 +334,7 @@
 
 ## TypeScript 
 
+- [yesmeck/reactive.macro](https://github.com/yesmeck/reactive.macro) - Reduce the React boilerplate.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
