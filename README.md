@@ -12,6 +12,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Elm](#elm)
 - [Go](#go)
 - [HTML](#html)
@@ -72,6 +73,10 @@
 - [vasu-gondaliya/rubiks-cube](https://github.com/vasu-gondaliya/rubiks-cube) - A Rubik's Cube Visualizer with face turns, cube rotations, scramble generator, flat view of cube and cube animation
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 
+## Clojure 
+
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+
 ## Elm 
 
 - [w0rm/elm-cubik](https://github.com/w0rm/elm-cubik) - Rubik's cube puzzle in the Elm language
@@ -86,6 +91,7 @@
 
 ## HTML 
 
+- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [kamil-kielczewski/fractals](https://github.com/kamil-kielczewski/fractals) - Currently Mandelbulb fractal
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [Tinkoff/invest-openapi](https://github.com/Tinkoff/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
@@ -99,6 +105,9 @@
 
 ## JavaScript 
 
+- [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
+- [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
+- [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [yuchi/hooks.macro](https://github.com/yuchi/hooks.macro) - ☔️ Babel Macros for automatic React Hooks memoization invalidation
 - [postcss/postcss-100vh-fix](https://github.com/postcss/postcss-100vh-fix) - PostCSS plugin to fix height/min-height: 100vh on iOS
 - [Mokapon/babaknowstruth](https://github.com/Mokapon/babaknowstruth) - Silly app based on the game Baba Is You, by Hempuli.
@@ -334,6 +343,9 @@
 
 ## TypeScript 
 
+- [react-cropper/react-cropper](https://github.com/react-cropper/react-cropper) - Cropperjs as React component
+- [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
+- [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [yesmeck/reactive.macro](https://github.com/yesmeck/reactive.macro) - Reduce the React boilerplate.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
