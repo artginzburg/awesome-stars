@@ -307,7 +307,7 @@
 
 - [danilofuchs/ForceTouchPlayer](https://github.com/danilofuchs/ForceTouchPlayer) - Play songs with a Macbook trackpad
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
-- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on macOS.
+- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on MacOS.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [andrewn/brew-services-menubar](https://github.com/andrewn/brew-services-menubar) - An OS X menu item for starting and stopping homebrew services
@@ -343,6 +343,7 @@
 
 ## TypeScript 
 
+- [un-ts/prettier](https://github.com/un-ts/prettier) - :package: Opinionated but Incredible Prettier plugins.
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [OvidijusParsiunas/css-filter-converter](https://github.com/OvidijusParsiunas/css-filter-converter) - A very simple tool used to convert basic css color formats to and from css filter :art:
 - [react-cropper/react-cropper](https://github.com/react-cropper/react-cropper) - Cropperjs as React component
