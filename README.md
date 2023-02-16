@@ -309,6 +309,7 @@
 
 ## Swift 
 
+- [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
 - [danilofuchs/ForceTouchPlayer](https://github.com/danilofuchs/ForceTouchPlayer) - Play songs with a Macbook trackpad
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
