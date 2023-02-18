@@ -107,6 +107,7 @@
 
 ## JavaScript 
 
+- [dfilatov/jspath](https://github.com/dfilatov/jspath) - DSL that enables you to navigate and find data within your JSON documents
 - [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
