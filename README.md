@@ -69,6 +69,7 @@
 
 ## CSS 
 
+- [9elements/min-max-calculator](https://github.com/9elements/min-max-calculator) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [vasu-gondaliya/rubiks-cube](https://github.com/vasu-gondaliya/rubiks-cube) - A Rubik's Cube Visualizer with face turns, cube rotations, scramble generator, flat view of cube and cube animation
@@ -92,6 +93,7 @@
 
 ## HTML 
 
+- [yannvr/react-components-cli](https://github.com/yannvr/react-components-cli) - React command line template generator
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [kamil-kielczewski/fractals](https://github.com/kamil-kielczewski/fractals) - Currently Mandelbulb fractal
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
@@ -107,6 +109,11 @@
 
 ## JavaScript 
 
+- [gabiseabra/styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - 
+- [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
+- [sbekrin/styled-email-components](https://github.com/sbekrin/styled-email-components) - 💌 styled-components for emails
+- [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [dfilatov/jspath](https://github.com/dfilatov/jspath) - DSL that enables you to navigate and find data within your JSON documents
 - [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
@@ -218,6 +225,8 @@
 
 ## Others 
 
+- [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
+- [petrepa/TPRCB](https://github.com/petrepa/TPRCB) - Toilet Paper Roll Counter Box
 - [gsimone/awesome-react-three-fiber](https://github.com/gsimone/awesome-react-three-fiber) - 🍕 A loose collection of cool r3f links, gifs, people, stuff
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
@@ -350,6 +359,11 @@
 
 ## TypeScript 
 
+- [FallenMax/styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - VSCode extension that extracts unbound JSX tags into styled-components
+- [Agreon/styco](https://github.com/Agreon/styco) - Transform Tags with style-props to styled components
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
+- [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
