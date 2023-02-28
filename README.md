@@ -109,6 +109,7 @@
 
 ## JavaScript 
 
+- [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [gabiseabra/styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - 
 - [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
 - [sbekrin/styled-email-components](https://github.com/sbekrin/styled-email-components) - 💌 styled-components for emails
@@ -256,7 +257,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
-- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - SMS, email, Telegram, Discord bomber and DDoS attacker.
+- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - Open source bomber
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [TinkeringPenguin/donut](https://github.com/TinkeringPenguin/donut) - DONUTS DONUTS DONUTS 🍩
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
