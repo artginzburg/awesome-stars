@@ -361,6 +361,7 @@
 
 ## TypeScript 
 
+- [shwilliam/react-rubber-slider](https://github.com/shwilliam/react-rubber-slider) - 〰️ A springy React range input
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
