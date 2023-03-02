@@ -209,6 +209,7 @@
 
 ## Objective-C 
 
+- [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [haqu/tiny-wings](https://github.com/haqu/tiny-wings) - Remake of the popular iPhone game.
 - [mhuusko5/M5MultitouchSupport](https://github.com/mhuusko5/M5MultitouchSupport) - [Maintained] [macOS] Easily and (thread/memory) safely consume global macOS multitouch (trackpad, Magic Mouse) events.
 - [gltchitm/keyboard-cleaner](https://github.com/gltchitm/keyboard-cleaner) - KeyboardCleaner is a macOS app for temporarily disabling input devices.
@@ -320,6 +321,7 @@
 
 ## Swift 
 
+- [tanin47/noo](https://github.com/tanin47/noo) - Mouse and touchpad configuration for Mac OS
 - [arnoappenzeller/PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts to your macOS app in minutes
 - [sindresorhus/LaunchAtLogin-Modern](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds
@@ -361,11 +363,12 @@
 
 ## TypeScript 
 
+- [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [shwilliam/react-rubber-slider](https://github.com/shwilliam/react-rubber-slider) - 〰️ A springy React range input
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
-- [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - Type-level madness
+- [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A lodash-like library for types, with support for type-level higher-order functions like map, filter and reduce.
 - [FallenMax/styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - VSCode extension that extracts unbound JSX tags into styled-components
 - [Agreon/styco](https://github.com/Agreon/styco) - Transform Tags with style-props to styled components
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
