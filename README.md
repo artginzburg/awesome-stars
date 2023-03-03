@@ -109,6 +109,7 @@
 
 ## JavaScript 
 
+- [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [gabiseabra/styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - 
 - [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
@@ -321,6 +322,7 @@
 
 ## Swift 
 
+- [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of misc prototypes
 - [tanin47/noo](https://github.com/tanin47/noo) - Mouse and touchpad configuration for Mac OS
 - [arnoappenzeller/PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts to your macOS app in minutes
