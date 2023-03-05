@@ -109,6 +109,7 @@
 
 ## JavaScript 
 
+- [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [gabiseabra/styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - 
@@ -370,7 +371,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
-- [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A lodash-like library for types, with support for type-level higher-order functions like map, filter and reduce.
+- [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [FallenMax/styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - VSCode extension that extracts unbound JSX tags into styled-components
 - [Agreon/styco](https://github.com/Agreon/styco) - Transform Tags with style-props to styled components
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
