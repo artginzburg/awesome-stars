@@ -228,6 +228,7 @@
 
 ## Others 
 
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
 - [petrepa/TPRCB](https://github.com/petrepa/TPRCB) - Toilet Paper Roll Counter Box
 - [gsimone/awesome-react-three-fiber](https://github.com/gsimone/awesome-react-three-fiber) - 🍕 A loose collection of cool r3f links, gifs, people, stuff
@@ -366,6 +367,8 @@
 
 ## TypeScript 
 
+- [artginzburg/css-clamper](https://github.com/artginzburg/css-clamper) - Cozy responsive sizes for CSS-in-JS
+- [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [shwilliam/react-rubber-slider](https://github.com/shwilliam/react-rubber-slider) - 〰️ A springy React range input
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -429,7 +432,7 @@
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [GetOvert/Overt](https://github.com/GetOvert/Overt) - Open app store (previously OpenStore)
+- [GetOvert/Overt](https://github.com/GetOvert/Overt) - Open app store / package manager GUI client
 - [seek-oss/capsize](https://github.com/seek-oss/capsize) - Flipping how we define typography in CSS.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [dmbaranov/evemovies-bot](https://github.com/dmbaranov/evemovies-bot) - You won't miss your favorite movies anymore!
