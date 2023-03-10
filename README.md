@@ -109,6 +109,7 @@
 
 ## JavaScript 
 
+- [Calamari/shunting-yard.js](https://github.com/Calamari/shunting-yard.js) - The shunting yard algorithm transforms a mathematical expression from infix notation into a reversed polish notation (postfix).
 - [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
@@ -261,7 +262,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
-- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - Open source bomber
+- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber / Лучший open source бомбер
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [TinkeringPenguin/donut](https://github.com/TinkeringPenguin/donut) - DONUTS DONUTS DONUTS 🍩
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -367,6 +368,7 @@
 
 ## TypeScript 
 
+- [dcollien/ExpressionParser](https://github.com/dcollien/ExpressionParser) - Parse simple expressions, in a language of your own description
 - [artginzburg/css-clamper](https://github.com/artginzburg/css-clamper) - Cozy responsive sizes for CSS-in-JS
 - [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
