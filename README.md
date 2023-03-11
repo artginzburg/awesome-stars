@@ -368,6 +368,7 @@
 
 ## TypeScript 
 
+- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [dcollien/ExpressionParser](https://github.com/dcollien/ExpressionParser) - Parse simple expressions, in a language of your own description
 - [artginzburg/css-clamper](https://github.com/artginzburg/css-clamper) - Cozy responsive sizes for CSS-in-JS
 - [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
