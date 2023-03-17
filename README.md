@@ -241,7 +241,6 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [demenskiy/mokka](https://github.com/demenskiy/mokka) - Minimal dark theme for Visual Studio Code.
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
-- [fancyapps/ui](https://github.com/fancyapps/ui) - JavaScript UI component library, includes the latest Fancybox
 - [naumch1k/naumch1k](https://github.com/naumch1k/naumch1k) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -454,6 +453,7 @@
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way · 🧼 🏛 🍪
+- [fancyapps/ui](https://github.com/fancyapps/ui) - JavaScript UI component library, includes the latest Fancybox
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [alexnzarov/telegraf-session-mongodb](https://github.com/alexnzarov/telegraf-session-mongodb) - MongoDB session middleware for Telegraf
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
