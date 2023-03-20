@@ -109,6 +109,8 @@
 
 ## JavaScript 
 
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [Calamari/shunting-yard.js](https://github.com/Calamari/shunting-yard.js) - The shunting yard algorithm transforms a mathematical expression from infix notation into a reversed polish notation (postfix).
 - [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
@@ -369,6 +371,7 @@
 
 ## TypeScript 
 
+- [SonarSource/eslint-plugin-sonarjs](https://github.com/SonarSource/eslint-plugin-sonarjs) - SonarJS rules for ESLint
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [dcollien/ExpressionParser](https://github.com/dcollien/ExpressionParser) - Parse simple expressions, in a language of your own description
 - [artginzburg/css-clamper](https://github.com/artginzburg/css-clamper) - Cozy responsive sizes for CSS-in-JS
