@@ -344,7 +344,6 @@
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [keith/ModMove](https://github.com/keith/ModMove) - Move/Resize windows using modifiers and the mouse
-- [rxhanson/ModMove](https://github.com/rxhanson/ModMove) - Move/Resize windows using modifiers and the mouse
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [smmr-software/privacy-redirect-safari](https://github.com/smmr-software/privacy-redirect-safari) - A Safari extension that redirects Twitter, YouTube, Reddit, and more to privacy friendly alternatives.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
