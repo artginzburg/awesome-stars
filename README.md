@@ -428,7 +428,7 @@
 - [makskornakov/neural-app](https://github.com/makskornakov/neural-app) - tests
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [KonradLinkowski/AntiCollision](https://github.com/KonradLinkowski/AntiCollision) - Collision detection bug
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [pzavolinsky/ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - ts-unused-exports finds unused exported symbols in your Typescript project
 - [kentcdodds/babel-plugin-preval](https://github.com/kentcdodds/babel-plugin-preval) - 🐣 Pre-evaluate code at build-time
