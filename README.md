@@ -294,7 +294,7 @@
 
 ## Ruby 
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's update PR creation logic. Feedback: https://github.com/orgs/community/discussions/categories/code-security
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [juliennicouleaud/macOS-init](https://github.com/juliennicouleaud/macOS-init) - Script d'installation et de mise à jour via brew
