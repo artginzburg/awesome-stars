@@ -370,6 +370,7 @@
 
 ## TypeScript 
 
+- [DJanoskova/react-smooth-corners](https://github.com/DJanoskova/react-smooth-corners) - Leverage the CSS Houdini API to create a rounded corner look for your React elements
 - [SonarSource/eslint-plugin-sonarjs](https://github.com/SonarSource/eslint-plugin-sonarjs) - SonarJS rules for ESLint
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [dcollien/ExpressionParser](https://github.com/dcollien/ExpressionParser) - Parse simple expressions, in a language of your own description
