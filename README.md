@@ -371,6 +371,7 @@
 
 ## TypeScript 
 
+- [gooditworks/base-frontend](https://github.com/gooditworks/base-frontend) - Opionated starter for Next.js applications, used in goodit.works
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - :pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)
 - [DJanoskova/react-smooth-corners](https://github.com/DJanoskova/react-smooth-corners) - Leverage the CSS Houdini API to create a rounded corner look for your React elements
