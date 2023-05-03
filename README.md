@@ -372,6 +372,7 @@
 
 ## TypeScript 
 
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [Shinigami92/eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
