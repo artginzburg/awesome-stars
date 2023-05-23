@@ -374,6 +374,7 @@
 
 ## TypeScript 
 
+- [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
 - [cortez/lcortez.com](https://github.com/cortez/lcortez.com) - My personal website built with Next.js.
 - [robonyong/react-split-flap-display](https://github.com/robonyong/react-split-flap-display) - A CSS & React built Split Flap or Solari display
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations on the web
