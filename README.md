@@ -94,6 +94,7 @@
 
 ## HTML 
 
+- [BEPb/github-contributions](https://github.com/BEPb/github-contributions) - If you want to beautify your GitHub activity history
 - [yannvr/react-components-cli](https://github.com/yannvr/react-components-cli) - React command line template generator
 - [kamil-kielczewski/fractals](https://github.com/kamil-kielczewski/fractals) - Currently Mandelbulb fractal
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
@@ -375,6 +376,8 @@
 
 ## TypeScript 
 
+- [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors
+- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [smbddha/audioply](https://github.com/smbddha/audioply) - A web audio api playground
 - [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
 - [cortez/lcortez.com](https://github.com/cortez/lcortez.com) - My personal website built with Next.js.
