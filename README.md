@@ -167,7 +167,7 @@
 - [sindresorhus/invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object. Example: {foo: 'bar'} → {bar: 'foo'}
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [cb372/line-count](https://github.com/cb372/line-count) - A line counter for GitHub-hosted repositories, built with node.js
-- [mvila/npm-addict](https://github.com/mvila/npm-addict) - Your daily injection of npm packages
+- [mvila/npm-addict](https://github.com/mvila/npm-addict) - [TERMINATED] Your daily injection of npm packages
 - [amwmedia/eslint-plugin-woke](https://github.com/amwmedia/eslint-plugin-woke) - 
 - [juvirez/yandex-music-app](https://github.com/juvirez/yandex-music-app) - Неофициальное приложение Яндекс Музыка для MacOS
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -376,6 +376,7 @@
 
 ## TypeScript 
 
+- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [smbddha/audioply](https://github.com/smbddha/audioply) - A web audio api playground
