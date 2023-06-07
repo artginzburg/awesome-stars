@@ -334,6 +334,7 @@
 
 ## Swift 
 
+- [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of various prototypes
 - [tanin47/noo](https://github.com/tanin47/noo) - Mouse and touchpad configuration for Mac OS
 - [arnoappenzeller/PiPifier](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode
