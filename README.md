@@ -161,7 +161,7 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [wbyoung/avn](https://github.com/wbyoung/avn) - Automatic Version Switching for Node
 - [kentcdodds/preval.macro](https://github.com/kentcdodds/preval.macro) - Pre-evaluate code at build-time with babel-macros
-- [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - StandWithUkraine support materials
+- [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - #StandWithUkraine banner and related documents
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [motdotla/dotenv-expand](https://github.com/motdotla/dotenv-expand) - Variable expansion for dotenv. Expand variables already on your machine for use in your .env file.
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -379,6 +379,7 @@
 
 ## TypeScript 
 
+- [dlehmhus/next-with-linaria](https://github.com/dlehmhus/next-with-linaria) - Linaria webpack loader for Next.js 13
 - [amandaghassaei/vector-math](https://github.com/amandaghassaei/vector-math) - A minimal vector math library to handle 2D/3D translations and rotations.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors
