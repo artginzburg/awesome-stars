@@ -254,7 +254,7 @@
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [demenskiy/mokka](https://github.com/demenskiy/mokka) - Minimal dark theme for Visual Studio Code.
+- [demenskyi/mokka](https://github.com/demenskyi/mokka) - Minimal dark theme for Visual Studio Code.
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
 - [naumch1k/naumch1k](https://github.com/naumch1k/naumch1k) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
