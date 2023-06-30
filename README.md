@@ -369,7 +369,7 @@
 - [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
 - [sindresorhus/DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon
 - [aahung/Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
-- [LumingYin/Caption](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT and FCPXML) without manually entering time codes.
+- [LumingYin/QuickCaption](https://github.com/LumingYin/QuickCaption) - Transcribe and generate caption files (SRT and FCPXML) without manually entering time codes.
 - [IngmarStein/Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS.
 - [LumingYin/SpeedReader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
