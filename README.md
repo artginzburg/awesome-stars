@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [iamcal/enchant-order](https://github.com/iamcal/enchant-order) - 
 - [gsimone/r3f-bubbles](https://github.com/gsimone/r3f-bubbles) - A ⚡️ react-three-fiber and 🌭 drei demo
 - [monogramdesign/prettier-config](https://github.com/monogramdesign/prettier-config) - Prettier config used at Monogram
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
