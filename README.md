@@ -310,6 +310,7 @@
 
 ## Rust 
 
+- [ComunidadAylas/PackSquash](https://github.com/ComunidadAylas/PackSquash) - 📦 Minecraft: Java Edition resource and data pack optimizer which aims to achieve the best possible compression, performance and protection, improving pack distribution, storage and in-game load times.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [Hywan/LaMaisonVivante](https://github.com/Hywan/LaMaisonVivante) - Home Automation programs for my self-sufficient house
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -382,6 +383,7 @@
 
 ## TypeScript 
 
+- [melvinchia3636/vanillaTweaks](https://github.com/melvinchia3636/vanillaTweaks) - A better looking version of Vanilla Tweaks Website
 - [dlehmhus/next-with-linaria](https://github.com/dlehmhus/next-with-linaria) - Linaria webpack loader for Next.js 13
 - [amandaghassaei/vector-math](https://github.com/amandaghassaei/vector-math) - A minimal vector math library to handle 2D/3D translations and rotations.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
