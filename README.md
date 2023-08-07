@@ -128,6 +128,7 @@
 - [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
 - [sbekrin/styled-email-components](https://github.com/sbekrin/styled-email-components) - 💌 styled-components for emails
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [dfilatov/jspath](https://github.com/dfilatov/jspath) - DSL that enables you to navigate and find data within your JSON documents
 - [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
@@ -414,7 +415,6 @@
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [FallenMax/styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - VSCode extension that extracts unbound JSX tags into styled-components
 - [Agreon/styco](https://github.com/Agreon/styco) - Transform Tags with style-props to styled components
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
