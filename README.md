@@ -490,7 +490,7 @@
 - [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way · 🧼 🏛 🍪
 - [fancyapps/ui](https://github.com/fancyapps/ui) - A library of JavaScript UI components, includes the best lightbox - Fancybox5
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-- [alexnzarov/telegraf-session-mongodb](https://github.com/alexnzarov/telegraf-session-mongodb) - MongoDB session middleware for Telegraf
+- [olexnzarov/telegraf-session-mongodb](https://github.com/olexnzarov/telegraf-session-mongodb) - MongoDB session middleware for Telegraf
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [kitze/react-hanger](https://github.com/kitze/react-hanger) - A collection of useful React hooks
