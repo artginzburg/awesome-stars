@@ -112,7 +112,6 @@
 
 - [iamcal/enchant-order](https://github.com/iamcal/enchant-order) - 
 - [gsimone/r3f-bubbles](https://github.com/gsimone/r3f-bubbles) - A ⚡️ react-three-fiber and 🌭 drei demo
-- [monogramdesign/prettier-config](https://github.com/monogramdesign/prettier-config) - Prettier config used at Monogram
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
@@ -139,7 +138,7 @@
 - [litdevelopers/tinder](https://github.com/litdevelopers/tinder) - Super Charged Tinder web client - Incremental Storage, recommendation filtering, live chat, web notifications
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ris58h/kinoknopki](https://github.com/ris58h/kinoknopki) - A Web Extension for KinoPoisk and IMDb.
-- [alexfernandez/loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
+- [alexfernandez/loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Fast and easy to use. Can be integrated in your own workflow using the API.
 - [yairEO/title-tooltip](https://github.com/yairEO/title-tooltip) - Automatically converts HTML title attributes to nicer better tooltips
 - [ArtemOnigiri/Light-Simulation-WebGL](https://github.com/ArtemOnigiri/Light-Simulation-WebGL) - 
 - [umijs/babel-plugin-import](https://github.com/umijs/babel-plugin-import) - Modularly import plugin for babel.
@@ -384,6 +383,7 @@
 ## TypeScript 
 
 - [melvinchia3636/vanillaTweaks](https://github.com/melvinchia3636/vanillaTweaks) - A better looking version of Vanilla Tweaks Website
+- [monogramdesign/prettier-config](https://github.com/monogramdesign/prettier-config) - Prettier config used at Monogram
 - [dlehmhus/next-with-linaria](https://github.com/dlehmhus/next-with-linaria) - Linaria webpack loader for Next.js 13
 - [amandaghassaei/vector-math](https://github.com/amandaghassaei/vector-math) - A minimal vector math library to handle 2D/3D translations and rotations.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
