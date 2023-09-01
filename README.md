@@ -222,6 +222,7 @@
 
 ## Objective-C 
 
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
 - [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [haqu/tiny-wings](https://github.com/haqu/tiny-wings) - Remake of the popular iPhone game.
 - [mhuusko5/M5MultitouchSupport](https://github.com/mhuusko5/M5MultitouchSupport) - [Maintained] [macOS] Easily and (thread/memory) safely consume global macOS multitouch (trackpad, Magic Mouse) events.
