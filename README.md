@@ -110,7 +110,7 @@
 
 ## JavaScript 
 
-- [iamcal/enchant-order](https://github.com/iamcal/enchant-order) - 
+- [iamcal/enchant-order](https://github.com/iamcal/enchant-order) - Minecraft enchantment optimization tool
 - [gsimone/r3f-bubbles](https://github.com/gsimone/r3f-bubbles) - A ⚡️ react-three-fiber and 🌭 drei demo
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
