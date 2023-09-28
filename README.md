@@ -383,6 +383,7 @@
 
 ## TypeScript 
 
+- [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
 - [melvinchia3636/vanillaTweaks](https://github.com/melvinchia3636/vanillaTweaks) - A better looking version of Vanilla Tweaks Website
 - [monogramdesign/prettier-config](https://github.com/monogramdesign/prettier-config) - Prettier config used at Monogram
 - [dlehmhus/next-with-linaria](https://github.com/dlehmhus/next-with-linaria) - Linaria webpack loader for Next.js 13
