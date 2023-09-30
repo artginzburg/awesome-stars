@@ -264,7 +264,7 @@
 
 ## PHP 
 
-- [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
+- [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [lorenzos/Minixed](https://github.com/lorenzos/Minixed) - A minimal but nice-looking PHP directory indexer.
 
 ## Python 
