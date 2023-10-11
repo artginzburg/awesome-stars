@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [aprilaili/aprilaili](https://github.com/aprilaili/aprilaili) - 
 - [iamcal/enchant-order](https://github.com/iamcal/enchant-order) - Minecraft enchantment optimization tool
 - [gsimone/r3f-bubbles](https://github.com/gsimone/r3f-bubbles) - A ⚡️ react-three-fiber and 🌭 drei demo
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -383,6 +384,7 @@
 
 ## TypeScript 
 
+- [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
 - [melvinchia3636/vanillaTweaks](https://github.com/melvinchia3636/vanillaTweaks) - A better looking version of Vanilla Tweaks Website
 - [monogramdesign/prettier-config](https://github.com/monogramdesign/prettier-config) - Prettier config used at Monogram
