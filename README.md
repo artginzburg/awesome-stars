@@ -55,7 +55,7 @@
 - [brandt/symlinks](https://github.com/brandt/symlinks) - symbolic link maintenance utility
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [takiz/symb](https://github.com/takiz/symb) - Замена выделенных ru/en символов как в Punto Switcher.
-- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [pirate/mac-keyboard-brightness](https://github.com/pirate/mac-keyboard-brightness) - 🔆 Programmatically get & set the keyboard & display backlight brightness on Macs. Flash your keyboard to the music! (only works on &lt;2015 Macs)
 
 ## C# # 
@@ -384,6 +384,7 @@
 
 ## TypeScript 
 
+- [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
 - [melvinchia3636/vanillaTweaks](https://github.com/melvinchia3636/vanillaTweaks) - A better looking version of Vanilla Tweaks Website
