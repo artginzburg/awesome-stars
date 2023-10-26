@@ -35,6 +35,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## Assembly 
@@ -500,6 +501,10 @@
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [kitze/react-hanger](https://github.com/kitze/react-hanger) - A collection of useful React hooks
 - [mvasin/react-div-100vh](https://github.com/mvasin/react-div-100vh) - A workaround for the '100vh' issue in mobile browsers
+
+## Vim Script 
+
+- [sharovatov/teamlead](https://github.com/sharovatov/teamlead) - Pragmatic humanist's thoughts on sociotechnical systems.
 
 ## Vue 
 
