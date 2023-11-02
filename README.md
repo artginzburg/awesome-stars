@@ -70,6 +70,7 @@
 
 ## CSS 
 
+- [nat-davydova/halloween-icons](https://github.com/nat-davydova/halloween-icons) - HTML/CSS set of Halloween Icons
 - [9elements/min-max-calculator](https://github.com/9elements/min-max-calculator) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
