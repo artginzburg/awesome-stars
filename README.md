@@ -32,6 +32,7 @@
 - [SCSS](#scss)
 - [Sass](#sass)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -61,6 +62,7 @@
 
 ## C# # 
 
+- [KatiaProkina/hackathon_2023](https://github.com/KatiaProkina/hackathon_2023) - 
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [AnaghSharma/Carol-Xamarin](https://github.com/AnaghSharma/Carol-Xamarin) - A minimal and beautiful lyrics app for macOS built with Xamarin and C#
 
@@ -70,6 +72,7 @@
 
 ## CSS 
 
+- [hbtch/pet-project-2](https://github.com/hbtch/pet-project-2) - 
 - [nat-davydova/halloween-icons](https://github.com/nat-davydova/halloween-icons) - HTML/CSS set of Halloween Icons
 - [9elements/min-max-calculator](https://github.com/9elements/min-max-calculator) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
@@ -96,6 +99,8 @@
 
 ## HTML 
 
+- [ena0berzerk/team-28](https://github.com/ena0berzerk/team-28) - Рабочий репо для совместной работы в команде №28 в рамках благотворительного хакатона джунов 2023
+- [forst09/hackathon](https://github.com/forst09/hackathon) - 
 - [BEPb/github-contributions](https://github.com/BEPb/github-contributions) - If you want to beautify your GitHub activity history
 - [yannvr/react-components-cli](https://github.com/yannvr/react-components-cli) - React command line template generator
 - [kamil-kielczewski/fractals](https://github.com/kamil-kielczewski/fractals) - Currently Mandelbulb fractal
@@ -107,11 +112,33 @@
 
 ## Java 
 
+- [VaultDweller13/junior-hackathon](https://github.com/VaultDweller13/junior-hackathon) - 
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [FlorentCollin/baba-is-you](https://github.com/FlorentCollin/baba-is-you) - Puzzle game where the player can change rules by pushing blocks and win by a lot of different ways. Based on the game "Baba Is You" of Arvi Teikari.
 
 ## JavaScript 
 
+- [delioncourts/charity-project](https://github.com/delioncourts/charity-project) - Проект команды #48 для благотворительного хакатона
+- [PafnutiyMcNick/createApp](https://github.com/PafnutiyMcNick/createApp) - 
+- [hackathon-team-44/Slider_game](https://github.com/hackathon-team-44/Slider_game) - 
+- [chernyaevaia/hackathon](https://github.com/chernyaevaia/hackathon) - Repository for hackathon 2023
+- [AlexKuryanov/game-42](https://github.com/AlexKuryanov/game-42) - 
+- [Luchiweb/jun-hackaton](https://github.com/Luchiweb/jun-hackaton) - 
+- [Lefaktar-coder/hakaton](https://github.com/Lefaktar-coder/hakaton) - 
+- [Team38-Hackaton/frontend](https://github.com/Team38-Hackaton/frontend) - 
+- [Sergey-Boronin/hack-33](https://github.com/Sergey-Boronin/hack-33) - 
+- [jun-hackathon-31/memory-game-frontend](https://github.com/jun-hackathon-31/memory-game-frontend) - Frontend-часть браузерной мини-игры Memory Game для Джун-Хакатона
+- [charity-hackathon-2023-team-24/frontend](https://github.com/charity-hackathon-2023-team-24/frontend) - 
+- [MariaPtrv/Hackathon](https://github.com/MariaPtrv/Hackathon) - https://jun-hackaton-landing.vercel.app/
+- [e-gorkavyi/team21](https://github.com/e-gorkavyi/team21) - 
+- [govyazina/junior-hackathon_team__14](https://github.com/govyazina/junior-hackathon_team__14) - 
+- [Junior-Hackathon-Charity-2023/frontend](https://github.com/Junior-Hackathon-Charity-2023/frontend) - 
+- [jun-hackaton-team-5/memory-game](https://github.com/jun-hackaton-team-5/memory-game) - 
+- [SafAlyona/hackathon-team1](https://github.com/SafAlyona/hackathon-team1) - 
+- [vikhri/vikhri.github.io](https://github.com/vikhri/vikhri.github.io) - 
+- [mattewkl/hackaton-team-1-backup](https://github.com/mattewkl/hackaton-team-1-backup) - 
+- [Andrenord282/hackathon-team-16-client](https://github.com/Andrenord282/hackathon-team-16-client) - 
+- [smplcod/charity-match-cards](https://github.com/smplcod/charity-match-cards) - В середине времени узнал, что из команды только мне делать.😅 Делал заново с нуля. Поэтому только основные фичи сделал ☺️ Под мобилки не оптимизировал, регистрацию не делал и т.д.
 - [aprilaili/aprilaili](https://github.com/aprilaili/aprilaili) - 
 - [iamcal/enchant-order](https://github.com/iamcal/enchant-order) - Minecraft enchantment optimization tool
 - [gsimone/r3f-bubbles](https://github.com/gsimone/r3f-bubbles) - A ⚡️ react-three-fiber and 🌭 drei demo
@@ -243,6 +270,7 @@
 
 ## Others 
 
+- [TeamThirty/Game_backend](https://github.com/TeamThirty/Game_backend) - 
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [AN0NCER/mustapp-api](https://github.com/AN0NCER/mustapp-api) - Get API Mustapp application from IOS and ANDROID (https://mustapp.com/)
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
@@ -272,6 +300,7 @@
 
 ## Python 
 
+- [Shedmaster136/Hackathon](https://github.com/Shedmaster136/Hackathon) - Репозиторий для благотворительного хакатона
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [rednafi/fastapi-nano](https://github.com/rednafi/fastapi-nano) - 🐍 Simple FastAPI template employing divisional architecture pattern
@@ -341,6 +370,10 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
+## Svelte 
+
+- [HugeLetters/jun-hackathon](https://github.com/HugeLetters/jun-hackathon) - 
+
 ## Swift 
 
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
@@ -386,6 +419,13 @@
 
 ## TypeScript 
 
+- [eeershov/j-hack-team37](https://github.com/eeershov/j-hack-team37) - 
+- [muddv/jun-hackathon-team25](https://github.com/muddv/jun-hackathon-team25) - 
+- [twin-towers/team11_front](https://github.com/twin-towers/team11_front) - 
+- [lgklsv/hackathon-team-10](https://github.com/lgklsv/hackathon-team-10) - 
+- [artemakulenko/charity-hackathon](https://github.com/artemakulenko/charity-hackathon) - 
+- [rich1eo/hackathon-2023](https://github.com/rich1eo/hackathon-2023) - 
+- [kravcov7/hackathon-team3](https://github.com/kravcov7/hackathon-team3) - 
 - [andreipfeiffer/css-in-js](https://github.com/andreipfeiffer/css-in-js) - A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
@@ -510,6 +550,8 @@
 
 ## Vue 
 
+- [PummelerDev/hackathon](https://github.com/PummelerDev/hackathon) - 
+- [markgrushevski/Team27](https://github.com/markgrushevski/Team27) - 
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
 
