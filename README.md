@@ -372,6 +372,7 @@
 
 ## Svelte 
 
+- [ronanru/ronanru.com](https://github.com/ronanru/ronanru.com) - 
 - [HugeLetters/jun-hackathon](https://github.com/HugeLetters/jun-hackathon) - 
 
 ## Swift 
@@ -419,6 +420,7 @@
 
 ## TypeScript 
 
+- [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
 - [eeershov/j-hack-team37](https://github.com/eeershov/j-hack-team37) - 
 - [muddv/jun-hackathon-team25](https://github.com/muddv/jun-hackathon-team25) - 
 - [twin-towers/team11_front](https://github.com/twin-towers/team11_front) - 
