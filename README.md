@@ -420,6 +420,7 @@
 
 ## TypeScript 
 
+- [HugeLetters/crx-reload](https://github.com/HugeLetters/crx-reload) - 
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
 - [eeershov/j-hack-team37](https://github.com/eeershov/j-hack-team37) - 
 - [muddv/jun-hackathon-team25](https://github.com/muddv/jun-hackathon-team25) - 
