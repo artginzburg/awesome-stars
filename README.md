@@ -72,6 +72,7 @@
 
 ## CSS 
 
+- [alvaromontoro/CSS-Games](https://github.com/alvaromontoro/CSS-Games) - Games and Apps developed using CSS and HTML, without a single line of JavaScript
 - [hbtch/pet-project-2](https://github.com/hbtch/pet-project-2) - 
 - [nat-davydova/halloween-icons](https://github.com/nat-davydova/halloween-icons) - HTML/CSS set of Halloween Icons
 - [9elements/min-max-calculator](https://github.com/9elements/min-max-calculator) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
@@ -99,6 +100,7 @@
 
 ## HTML 
 
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [ena0berzerk/team-28](https://github.com/ena0berzerk/team-28) - Рабочий репо для совместной работы в команде №28 в рамках благотворительного хакатона джунов 2023
 - [forst09/hackathon](https://github.com/forst09/hackathon) - 
 - [BEPb/github-contributions](https://github.com/BEPb/github-contributions) - If you want to beautify your GitHub activity history
