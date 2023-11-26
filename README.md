@@ -123,7 +123,7 @@
 - [delioncourts/charity-project](https://github.com/delioncourts/charity-project) - Проект команды #48 для благотворительного хакатона
 - [PafnutiyMcNick/createApp](https://github.com/PafnutiyMcNick/createApp) - 
 - [hackathon-team-44/Slider_game](https://github.com/hackathon-team-44/Slider_game) - 
-- [chernyaevaia/hackathon](https://github.com/chernyaevaia/hackathon) - Repository for hackathon 2023
+- [chernyaevaia/hackathon-memory-game](https://github.com/chernyaevaia/hackathon-memory-game) - cards memory game for hackathon 2023
 - [AlexKuryanov/game-42](https://github.com/AlexKuryanov/game-42) - 
 - [Luchiweb/jun-hackaton](https://github.com/Luchiweb/jun-hackaton) - 
 - [Lefaktar-coder/hakaton](https://github.com/Lefaktar-coder/hakaton) - 
