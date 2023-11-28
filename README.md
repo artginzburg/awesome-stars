@@ -421,6 +421,7 @@
 
 ## TypeScript 
 
+- [Quramy/typed-css-modules](https://github.com/Quramy/typed-css-modules) - Creates .d.ts files from CSS Modules .css files
 - [HugeLetters/crx-reload](https://github.com/HugeLetters/crx-reload) - 
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
 - [eeershov/j-hack-team37](https://github.com/eeershov/j-hack-team37) - 
