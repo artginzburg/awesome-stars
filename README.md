@@ -136,7 +136,7 @@
 - [Junior-Hackathon-Charity-2023/frontend](https://github.com/Junior-Hackathon-Charity-2023/frontend) - 
 - [jun-hackaton-team-5/memory-game](https://github.com/jun-hackaton-team-5/memory-game) - 
 - [SafAlyona/hackathon-team1](https://github.com/SafAlyona/hackathon-team1) - 
-- [vikhri/vikhri.github.io](https://github.com/vikhri/vikhri.github.io) - 
+- [vikhri/Charity-Hackaton-2023](https://github.com/vikhri/Charity-Hackaton-2023) - 
 - [mattewkl/hackaton-team-1-backup](https://github.com/mattewkl/hackaton-team-1-backup) - 
 - [Andrenord282/hackathon-team-16-client](https://github.com/Andrenord282/hackathon-team-16-client) - 
 - [smplcod/charity-match-cards](https://github.com/smplcod/charity-match-cards) - В середине времени узнал, что из команды только мне делать.😅 Делал заново с нуля. Поэтому только основные фичи сделал ☺️ Под мобилки не оптимизировал, регистрацию не делал и т.д.
