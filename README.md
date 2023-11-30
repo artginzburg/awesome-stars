@@ -421,6 +421,7 @@
 
 ## TypeScript 
 
+- [artginzburg/games-without-js](https://github.com/artginzburg/games-without-js) - No client-side JavaScript, relying purely on SSR and CSS. Disable JS in your browser for an immersive experience
 - [Quramy/typed-css-modules](https://github.com/Quramy/typed-css-modules) - Creates .d.ts files from CSS Modules .css files
 - [HugeLetters/crx-reload](https://github.com/HugeLetters/crx-reload) - 
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
