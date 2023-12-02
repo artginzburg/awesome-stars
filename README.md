@@ -123,7 +123,7 @@
 - [delioncourts/charity-project](https://github.com/delioncourts/charity-project) - Проект команды #48 для благотворительного хакатона
 - [PafnutiyMcNick/createApp](https://github.com/PafnutiyMcNick/createApp) - 
 - [hackathon-team-44/Slider_game](https://github.com/hackathon-team-44/Slider_game) - 
-- [chernyaevaia/hackathon-memory-game](https://github.com/chernyaevaia/hackathon-memory-game) - cards memory game for hackathon 2023
+- [chernyaevaia/hackathon-memory-game](https://github.com/chernyaevaia/hackathon-memory-game) - cards memory game for hackathon 2023: choose field size, turns number, set timer and enjoy the game! built with ReactJS, css-modules and html
 - [AlexKuryanov/game-42](https://github.com/AlexKuryanov/game-42) - 
 - [Luchiweb/jun-hackaton](https://github.com/Luchiweb/jun-hackaton) - 
 - [Lefaktar-coder/hakaton](https://github.com/Lefaktar-coder/hakaton) - 
@@ -271,6 +271,7 @@
 
 ## Others 
 
+- [AbeJellinek/celeste-on-m1](https://github.com/AbeJellinek/celeste-on-m1) - Instructions and libraries needed to run Celeste on M1 Macs (2020 MacBook Air/Pro and Mac Mini)
 - [TeamThirty/Game_backend](https://github.com/TeamThirty/Game_backend) - 
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [AN0NCER/mustapp-api](https://github.com/AN0NCER/mustapp-api) - Get API Mustapp application from IOS and ANDROID (https://mustapp.com/)
