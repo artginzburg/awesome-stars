@@ -375,7 +375,7 @@
 ## Svelte 
 
 - [ronanru/ronanru.com](https://github.com/ronanru/ronanru.com) - 
-- [HugeLetters/jun-hackathon](https://github.com/HugeLetters/jun-hackathon) - 
+- [HugeLetters/jun-hackathon-2023](https://github.com/HugeLetters/jun-hackathon-2023) - 
 
 ## Swift 
 
