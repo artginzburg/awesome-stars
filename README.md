@@ -76,7 +76,6 @@
 - [hbtch/pet-project-2](https://github.com/hbtch/pet-project-2) - 
 - [nat-davydova/halloween-icons](https://github.com/nat-davydova/halloween-icons) - HTML/CSS set of Halloween Icons
 - [9elements/min-max-calculator](https://github.com/9elements/min-max-calculator) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
-- [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [Yukaii/dotfiles](https://github.com/Yukaii/dotfiles) - Yukai's dotfiles
 - [vasu-gondaliya/rubiks-cube](https://github.com/vasu-gondaliya/rubiks-cube) - A Rubik's Cube Visualizer with face turns, cube rotations, scramble generator, flat view of cube and cube animation
@@ -166,6 +165,7 @@
 - [yuchi/hooks.macro](https://github.com/yuchi/hooks.macro) - ☔️ Babel Macros for automatic React Hooks memoization invalidation
 - [postcss/postcss-100vh-fix](https://github.com/postcss/postcss-100vh-fix) - PostCSS plugin to fix height/min-height: 100vh on iOS
 - [Mokapon/babaknowstruth](https://github.com/Mokapon/babaknowstruth) - Silly app based on the game Baba Is You, by Hempuli.
+- [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [litdevelopers/tinder](https://github.com/litdevelopers/tinder) - Super Charged Tinder web client - Incremental Storage, recommendation filtering, live chat, web notifications
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ris58h/kinoknopki](https://github.com/ris58h/kinoknopki) - A Web Extension for KinoPoisk and IMDb.
