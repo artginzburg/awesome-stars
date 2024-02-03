@@ -100,7 +100,6 @@
 ## HTML 
 
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-- [ena0berzerk/team-28](https://github.com/ena0berzerk/team-28) - Рабочий репо для совместной работы в команде №28 в рамках благотворительного хакатона джунов 2023
 - [forst09/hackathon](https://github.com/forst09/hackathon) - 
 - [BEPb/github-contributions](https://github.com/BEPb/github-contributions) - If you want to beautify your GitHub activity history
 - [yannvr/react-components-cli](https://github.com/yannvr/react-components-cli) - React command line template generator
