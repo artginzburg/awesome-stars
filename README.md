@@ -118,7 +118,7 @@
 
 ## JavaScript 
 
-- [julienetie/db64](https://github.com/julienetie/db64) - Practical IndexedDB API
+- [julienetie/db64](https://github.com/julienetie/db64) - A Practical IndexedDB API
 - [delioncourts/charity-project](https://github.com/delioncourts/charity-project) - Проект команды #48 для благотворительного хакатона
 - [PafnutiyMcNick/createApp](https://github.com/PafnutiyMcNick/createApp) - 
 - [hackathon-team-44/Slider_game](https://github.com/hackathon-team-44/Slider_game) - 
