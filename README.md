@@ -102,6 +102,7 @@
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [forst09/hackathon](https://github.com/forst09/hackathon) - 
 - [BEPb/github-contributions](https://github.com/BEPb/github-contributions) - If you want to beautify your GitHub activity history
+- [yannvr/react-components-cli](https://github.com/yannvr/react-components-cli) - React command line template generator
 - [kamil-kielczewski/fractals](https://github.com/kamil-kielczewski/fractals) - Currently Mandelbulb fractal
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [Tinkoff/invest-openapi](https://github.com/Tinkoff/invest-openapi) - Документация для Тинькофф Инвестиции OpenApi
