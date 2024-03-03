@@ -258,7 +258,7 @@
 - [haqu/tiny-wings](https://github.com/haqu/tiny-wings) - Remake of the popular iPhone game.
 - [mhuusko5/M5MultitouchSupport](https://github.com/mhuusko5/M5MultitouchSupport) - [Maintained] [macOS] Easily and (thread/memory) safely consume global macOS multitouch (trackpad, Magic Mouse) events.
 - [gltchitm/keyboard-cleaner](https://github.com/gltchitm/keyboard-cleaner) - KeyboardCleaner is a macOS app for temporarily disabling input devices.
-- [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad. [macOS] [MultitouchSupport.framework]
+- [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad.
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [lapfelix/ForceTouchVibrationCLI](https://github.com/lapfelix/ForceTouchVibrationCLI) - A very bad CLI interface to make the MacBook's Force Touch Trackpad vibrate
