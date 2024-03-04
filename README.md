@@ -448,7 +448,6 @@
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [smbddha/audioply](https://github.com/smbddha/audioply) - A web audio api playground
 - [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
-- [cortez/lcortez.com](https://github.com/cortez/lcortez.com) - My personal website built with Next.js.
 - [robonyong/react-split-flap-display](https://github.com/robonyong/react-split-flap-display) - A CSS & React built Split Flap or Solari display
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
