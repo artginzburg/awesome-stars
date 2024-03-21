@@ -433,7 +433,7 @@
 - [twin-towers/team11_front](https://github.com/twin-towers/team11_front) - 
 - [lgklsv/hackathon-team-10](https://github.com/lgklsv/hackathon-team-10) - 
 - [artemakulenko/charity-hackathon](https://github.com/artemakulenko/charity-hackathon) - 
-- [rich1eo/hackathon-2023](https://github.com/rich1eo/hackathon-2023) - 
+- [rich1eo/hackathon-2023](https://github.com/rich1eo/hackathon-2023) - Hackathon Winner Project for non-profit organization
 - [kravcov7/hackathon-team3](https://github.com/kravcov7/hackathon-team3) - 
 - [andreipfeiffer/css-in-js](https://github.com/andreipfeiffer/css-in-js) - A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
