@@ -77,7 +77,7 @@
 - [nat-davydova/halloween-icons](https://github.com/nat-davydova/halloween-icons) - HTML/CSS set of Halloween Icons
 - [9elements/min-max-calculator](https://github.com/9elements/min-max-calculator) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
-- [Yukaii/dotfiles](https://github.com/Yukaii/dotfiles) - Yukai's dotfiles
+- [Yukaii/dotfiles](https://github.com/Yukaii/dotfiles) - Yukai's dotfiles. Managed by GNU stow. Including some useful shell scripts.
 - [vasu-gondaliya/rubiks-cube](https://github.com/vasu-gondaliya/rubiks-cube) - A Rubik's Cube Visualizer with face turns, cube rotations, scramble generator, flat view of cube and cube animation
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 
