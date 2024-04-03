@@ -367,7 +367,7 @@
 - [ORESoftware/fame](https://github.com/ORESoftware/fame) - Command line tool to display git log information by user/commiter. :tickets:
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [luclu7/dotfiles](https://github.com/luclu7/dotfiles) - Just a repo for my dotfiles
 - [iljaiwas/objc-run](https://github.com/iljaiwas/objc-run) - A shell script that makes it easy to use Objective-C files for shell script-like tasks.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
