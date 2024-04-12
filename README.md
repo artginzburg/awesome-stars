@@ -45,7 +45,7 @@
 
 ## Astro 
 
-- [GetOvert/getovert.github.io](https://github.com/GetOvert/getovert.github.io) - Website for Overt, an open app store (previously OpenStore)
+- [GetOvert/getovert.github.io](https://github.com/GetOvert/getovert.github.io) - Website for Overt, an open app store
 
 ## AutoHotkey 
 
