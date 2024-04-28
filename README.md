@@ -130,7 +130,6 @@
 - [Sergey-Boronin/hack-33](https://github.com/Sergey-Boronin/hack-33) - 
 - [jun-hackathon-31/memory-game-frontend](https://github.com/jun-hackathon-31/memory-game-frontend) - Frontend-часть браузерной мини-игры Memory Game для Джун-Хакатона
 - [charity-hackathon-2023-team-24/frontend](https://github.com/charity-hackathon-2023-team-24/frontend) - 
-- [e-gorkavyi/team21](https://github.com/e-gorkavyi/team21) - 
 - [govyazina/junior-hackathon_team__14](https://github.com/govyazina/junior-hackathon_team__14) - 
 - [Junior-Hackathon-Charity-2023/frontend](https://github.com/Junior-Hackathon-Charity-2023/frontend) - 
 - [jun-hackaton-team-5/memory-game](https://github.com/jun-hackaton-team-5/memory-game) - 
