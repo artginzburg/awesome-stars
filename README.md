@@ -221,7 +221,7 @@
 - [luclu7/v2shrug-bot](https://github.com/luclu7/v2shrug-bot) - ¯\_(ツ)_/¯
 - [camillebaronnet/calculator](https://github.com/camillebaronnet/calculator) - :trophy: Ergonomic and modern calculator
 - [kingdido999/zooming](https://github.com/kingdido999/zooming) - 🔍 Image zoom that makes sense.
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [webcatalog/translatium-legacy](https://github.com/webcatalog/translatium-legacy) - Legacy code of Translatium app for desktop.
@@ -510,7 +510,7 @@
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [nikelborm/educational-testings](https://github.com/nikelborm/educational-testings) - 
 - [artginzburg/dotenv-extended-prepare](https://github.com/artginzburg/dotenv-extended-prepare) - :package: Auto-creating .env files based on .env.defaults and .env.schema from dotenv-extended
 - [makskornakov/neural-app](https://github.com/makskornakov/neural-app) - tests
