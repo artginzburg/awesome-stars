@@ -311,7 +311,7 @@
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [TinkeringPenguin/donut](https://github.com/TinkeringPenguin/donut) - DONUTS DONUTS DONUTS 🍩
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [coffebar/layout_corrector](https://github.com/coffebar/layout_corrector) - Punto Switcher for Linux
