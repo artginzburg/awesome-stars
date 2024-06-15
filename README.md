@@ -381,6 +381,7 @@
 
 ## Swift 
 
+- [kylebshr/ScreenCorners](https://github.com/kylebshr/ScreenCorners) - Check the display corner radius of an iOS device
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
 - [tanin47/noo](https://github.com/tanin47/noo) - The simplest mouse and touchpad configuration for Mac OS
