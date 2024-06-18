@@ -175,7 +175,6 @@
 - [umijs/babel-plugin-import](https://github.com/umijs/babel-plugin-import) - Modularly import plugin for babel.
 - [manuelmhtr/countries-and-timezones](https://github.com/manuelmhtr/countries-and-timezones) - Minimalistic library to work with countries and timezones data
 - [manuelmhtr/countries-db](https://github.com/manuelmhtr/countries-db) - Minimalistic library to work with countries data.
-- [progressclaim/countryjs](https://github.com/progressclaim/countryjs) - A module for returning data about countries, ISO info and states/provinces within them. Browserify-compatible
 - [atnmorrison/country-locale-map](https://github.com/atnmorrison/country-locale-map) - 
 - [niutech/x-frame-bypass](https://github.com/niutech/x-frame-bypass) - Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
