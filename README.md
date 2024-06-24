@@ -424,6 +424,7 @@
 
 ## TypeScript 
 
+- [PengBoUESTC/vite-plugin-env-switch](https://github.com/PengBoUESTC/vite-plugin-env-switch) - vite-plugin-env-switch
 - [artginzburg/games-without-js](https://github.com/artginzburg/games-without-js) - No client-side JavaScript, relying purely on SSR and CSS. Disable JS in your browser for an immersive experience
 - [Quramy/typed-css-modules](https://github.com/Quramy/typed-css-modules) - Creates .d.ts files from CSS Modules .css files
 - [HugeLetters/crx-reload](https://github.com/HugeLetters/crx-reload) - 
@@ -479,7 +480,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [un-ts/prettier](https://github.com/un-ts/prettier) - :package: Opinionated but Incredible Prettier plugins.
-- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
+- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://ahooks.pages.dev/
 - [OvidijusParsiunas/css-filter-converter](https://github.com/OvidijusParsiunas/css-filter-converter) - A very simple tool used to convert basic css color formats to and from css filter :art:
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [react-cropper/react-cropper](https://github.com/react-cropper/react-cropper) - Cropperjs as React component
