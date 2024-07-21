@@ -120,6 +120,7 @@
 
 ## JavaScript 
 
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [julienetie/db64](https://github.com/julienetie/db64) - A Practical IndexedDB API
 - [delioncourts/charity-project](https://github.com/delioncourts/charity-project) - Проект команды #48 для благотворительного хакатона
 - [PafnutiyMcNick/createApp](https://github.com/PafnutiyMcNick/createApp) - 
