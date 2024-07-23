@@ -438,7 +438,7 @@
 - [rich1eo/hackathon-2023](https://github.com/rich1eo/hackathon-2023) - Hackathon Winner Project for non-profit organization
 - [kravcov7/hackathon-team3](https://github.com/kravcov7/hackathon-team3) - 
 - [andreipfeiffer/css-in-js](https://github.com/andreipfeiffer/css-in-js) - A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js
-- [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
 - [melvinchia3636/vanillaTweaks](https://github.com/melvinchia3636/vanillaTweaks) - A better looking version of Vanilla Tweaks Website
